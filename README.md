@@ -26,6 +26,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 |   2021   |  arXiv   | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion | Bo Dong, et al. | [Paper](https://arxiv.org/pdf/2101.05687.pdf)/[Code](https://github.com/BigHeartDB/MCIFNet)  
 |   2021   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code
 |   2021   |  arXiv   | Transformer transforms salient object detection and camouflaged object detection | Yuxin Mao, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2104.10127)/[Code](https://github.com/fupiao1998/TrasformerSOD)
+|
 |   2022   |   CVPR   | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper]()/[Code](https://github.com/lartpang/ZoomNet)
 |   2022   |   CVPR   | Implicit Motion Handling for Video Camouflaged Object Detection | Xuelian Cheng, Deng-Ping Fan, et al. | [Paper](https://dengpingfan.github.io/papers/[2022][CVPR]VCOD_MoCA-Mask.pdf)/[Code](https://github.com/XuelianCheng/SLT-Net)
 |   2021   |   PAMI   | **Concealed Object Detection** `COD10K`                       | Deng-Ping Fan, Ge-Peng Ji, et al.                            | Paper/Code                                                   |
