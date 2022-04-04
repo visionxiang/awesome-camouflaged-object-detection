@@ -23,6 +23,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :-----------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2022   |  arXiv   | Exploring Depth Contribution for Camouflaged Object Detection | Mochu Xiang, Yuchao Dai, et al. | [Paper](https://arxiv.org/abs/2106.13217v3)/Code
 |   2021   |  arXiv   | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion | Bo Dong, et al. | [Paper](https://arxiv.org/pdf/2101.05687.pdf)/[Code](https://github.com/BigHeartDB/MCIFNet)  
 |   2021   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code
 |   2021   |  arXiv   | Transformer transforms salient object detection and camouflaged object detection | Yuxin Mao, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2104.10127)/[Code](https://github.com/fupiao1998/TrasformerSOD)
