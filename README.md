@@ -22,7 +22,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 ## Paper List
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
-| :------: | :------: | :-----------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |   2022   |  arXiv   | Exploring Depth Contribution for Camouflaged Object Detection | Mochu Xiang, Yuchao Dai, et al. | [Paper](https://arxiv.org/abs/2106.13217v3)/Code
 |   2021   |  arXiv   | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion | Bo Dong, et al. | [Paper](https://arxiv.org/pdf/2101.05687.pdf)/[Code](https://github.com/BigHeartDB/MCIFNet)  
 |   2021   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code
@@ -51,7 +51,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 ### Camouflaged Instance Segmentation
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
-| :------: | :------: | :-----------------------------------------------------------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | 2022 | TIP  | Camouflaged Instance Segmentation In-The-Wild: Dataset, Method, and Benchmark Suite | Trung-Nghia Le, et al. | [Paper](https://arxiv.org/abs/2103.17123)/[Proj](https://sites.google.com/view/ltnghia/research/camo_plus_plus)
 | 2021 | AAAI | CamouFinder: Finding Camouflaged Instances in Images | Trung-Nghia Le, et al. | [Paper](https://www.aaai.org/AAAI21Papers/DEMO-93.LeTN.pdf)/[Video](https://www.youtube.com/watch?v=RI4nt5MDmwE&ab_channel=TrungNgh%C4%A9aL%C3%AA)
 
