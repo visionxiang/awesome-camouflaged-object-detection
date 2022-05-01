@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for camouflaged/concealed object detection (COD). We will keep updating it.
 
-:heavy_exclamation_mark:Updated 2022-03-06.
+:heavy_exclamation_mark:Updated 2022-04-30.
 
 
 --------------------------------------------------------------------------------------
@@ -23,12 +23,15 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2022   |  arXiv   | Exploring Depth Contribution for Camouflaged Object Detection | Mochu Xiang, Yuchao Dai, et al. | [Paper](https://arxiv.org/abs/2106.13217v3)/Code
-|   2021   |  arXiv   | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion | Bo Dong, et al. | [Paper](https://arxiv.org/pdf/2101.05687.pdf)/[Code](https://github.com/BigHeartDB/MCIFNet)  
-|   2021   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code
-|   2021   |  arXiv   | Transformer transforms salient object detection and camouflaged object detection | Yuxin Mao, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2104.10127)/[Code](https://github.com/fupiao1998/TrasformerSOD)
-| | | | | |
-|   2022   |   CVPR   | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper]()/[Code](https://github.com/lartpang/ZoomNet) |
+|   --   |  arXiv   | Exploring Depth Contribution for Camouflaged Object Detection | Mochu Xiang, Yuchao Dai, et al. | [Paper](https://arxiv.org/abs/2106.13217v3)/Code
+|   --   |  arXiv   | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion | Bo Dong, et al. | [Paper](https://arxiv.org/pdf/2101.05687.pdf)/[Code](https://github.com/BigHeartDB/MCIFNet)  
+|   --   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code
+|   --   |  arXiv   | Transformer transforms salient object detection and camouflaged object detection | Yuxin Mao, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2104.10127)/[Code](https://github.com/fupiao1998/TrasformerSOD)
+|   2022   |  IJCAI   | Boundary-Guided Camouflaged Object Detection | -- | Paper/Code
+|   2022   |   CVPR   | DTA: Physical Camouflage Attacks using Differentiable Transformation Network | Naufal Suryanto, et al. | [Paper](https://arxiv.org/abs/2203.09831)/Code
+|   2022   |   CVPR   | Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way | Qi Jia, S. Yao, Yu Liu, et al. | [Paper]()/Code 
+|   2022   |   CVPR   | Detecting Camouflaged Object in Frequency Domain | Yijie Zhong, Bo Li, et al. | [Paper]()/Code
+|   2022   |   CVPR   | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper](https://arxiv.org/abs/2203.02688)/[Code](https://github.com/lartpang/ZoomNet) |
 |   2022   |   CVPR   | Implicit Motion Handling for Video Camouflaged Object Detection `MoCA-Mask` | Xuelian Cheng, Deng-Ping Fan, et al. | [Paper](https://dengpingfan.github.io/papers/[2022][CVPR]VCOD_MoCA-Mask.pdf)/[Code](https://github.com/XuelianCheng/SLT-Net)
 |   2022   |  AAAI    | I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection | Hongwei Zhu, Mingqiang Wei, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-6565.ZhuH.pdf)/[Code](https://github.com/WolfberryCoke/BSA-Net) | 
 |   2021   |   PAMI   | **Concealed Object Detection** `COD10K`                       | Deng-Ping Fan, Ge-Peng Ji, et al.                            | Paper/Code                                                   |
