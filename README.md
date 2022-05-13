@@ -27,10 +27,9 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 |   --   |  arXiv   | Transformer transforms salient object detection and camouflaged object detection | Yuxin Mao, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2104.10127)/[Code](https://github.com/fupiao1998/TrasformerSOD)
 |   --   |  arXiv   | Exploring Depth Contribution for Camouflaged Object Detection | Mochu Xiang, Yuchao Dai, et al. | [Paper](https://arxiv.org/abs/2106.13217v3)/Code
 |   --   |  arXiv   | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion | Bo Dong, et al. | [Paper](https://arxiv.org/pdf/2101.05687.pdf)/[Code](https://github.com/BigHeartDB/MCIFNet)  
-|   --   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code
-
+|   --   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code 
 |   2022   |  IJCAI   | Boundary-Guided Camouflaged Object Detection | -- | Paper/Code
-|   2022   |   CVPR   | DTA: Physical Camouflage Attacks using Differentiable Transformation Network | Naufal Suryanto, et al. | [Paper](https://arxiv.org/abs/2203.09831)/Code
+|   2022   |   CVPR   | *DTA: Physical Camouflage Attacks using Differentiable Transformation Network* | Naufal Suryanto, et al. | [Paper](https://arxiv.org/abs/2203.09831)/Code
 |   2022   |   CVPR   | Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way | Qi Jia, S. Yao, Yu Liu, et al. | [Paper]()/Code 
 |   2022   |   CVPR   | Detecting Camouflaged Object in Frequency Domain | Yijie Zhong, Bo Li, et al. | Paper/Code
 |   2022   |   CVPR   | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper](https://arxiv.org/abs/2203.02688)/[Code](https://github.com/lartpang/ZoomNet) |
@@ -54,7 +53,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 |   2019   |   CVIU   | Anabranch network for camouflaged object segmentation `CAMO` | Trung-Nghia Le, et al. | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf)/[Code](https://sites.google.com/view/ltnghia/research/camo)
 |   2019   |   SPL    | Detection of People With Camouflage Pattern Via Dense Deconvolution Network `CPD1K` | Yunfei Zheng, et al. | [Paper](https://ieeexplore.ieee.org/document/8336933)/Code
 |   2018   |   TIP    | A Fusion Framework for Camouflaged Moving Foreground Detection in the Wavelet Domain | Shuai Li, et al.                                             | Paper/Code                                                   |
-|   2016   |   IJCV   | <span style="white-space:nowrap;">Partially Camouflaged Object Tracking using Modified Probabilistic Neural Network and Fuzzy Energy based Active Contour&emsp;</span> | <span style="white-space:nowrap;">A. Mondal, Susmita Ghosh, Ashish Ghosh&emsp;</span> | Paper/Code                                                   |
+|   2016   |   IJCV   | <span style="white-space:nowrap;">Partially Camouflaged Object Tracking using Modified Probabilistic Neural Network and Fuzzy Energy based Active Contour&emsp;&emsp;&emsp;</span> | <span style="white-space:nowrap;">A. Mondal, Susmita Ghosh, Ashish Ghosh&emsp;</span> | Paper/Code                                                   |
 
 
 ### Camouflaged Instance Segmentation
