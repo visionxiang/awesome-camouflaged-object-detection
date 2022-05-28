@@ -29,7 +29,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 |   --   |  arXiv   | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion | Bo Dong, et al. | [Paper](https://arxiv.org/pdf/2101.05687.pdf)/[Code](https://github.com/BigHeartDB/MCIFNet)  
 |   --   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code 
 |   2022   |  IJCAI   | Boundary-Guided Camouflaged Object Detection | -- | Paper/Code
-|   2022   |   CVPR   | *DTA: Physical Camouflage Attacks using Differentiable Transformation Network* | Naufal Suryanto, et al. | [Paper](https://arxiv.org/abs/2203.09831)/Code
+|   2022   |   CVPR   | ~~DTA: Physical Camouflage Attacks using Differentiable Transformation Network~~ | Naufal Suryanto, et al. | [Paper](https://arxiv.org/abs/2203.09831)/Code
 |   2022   |   CVPR   | Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way | Qi Jia, S. Yao, Yu Liu, et al. | [Paper]()/Code 
 |   2022   |   CVPR   | Detecting Camouflaged Object in Frequency Domain | Yijie Zhong, Bo Li, et al. | Paper/Code
 |   2022   |   CVPR   | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper](https://arxiv.org/abs/2203.02688)/[Code](https://github.com/lartpang/ZoomNet) |
@@ -40,7 +40,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 |   2022   |  PR      | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network | Ge-Peng Ji, et al. | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet)
 |   2021   |  TCSVT   | Deep Texture-Aware Features for Camouflaged Object Detection | Jingjing Ren, Xiaowei Hu, et al. | [Paper](https://arxiv.org/pdf/2102.02996.pdf)/Code
 |   2021   |   PAMI   | **Concealed Object Detection** `COD10K`                       | Deng-Ping Fan, Ge-Peng Ji, et al.                            | Paper/Code                                                   |
-|   2021   |   ICCV   | Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection | Fan Yang, Qiang Zhai, et al.                                 | Paper/Code                                                   |
+|   2021   |   ICCV   | Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection | Fan Yang, Qiang Zhai, et al.                                 | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Uncertainty-Guided_Transformer_Reasoning_for_Camouflaged_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/fanyang587/UGTR)                                                   |
 |   2021   |   CVPR   | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection | Aixuan Li, Jing Zhang, et al.                    | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Uncertainty-Aware_Joint_Salient_Object_and_Camouflaged_Object_Detection_CVPR_2021_paper.html)/[Code](https://github.com/JingZhang617/Joint_COD_SOD) |
 |   2021   |   CVPR   | Simultaneously Localize, Segment and Rank the Camouflaged Objects `NC4K` | Yunqiu Lv, Jing Zhang, et al.                                | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)                                                   |
 |   2021   |   CVPR   | Mutual Graph Learning for Camouflaged Object Detection       | Qiang Zhai, Xin Li, et al.                                   | Paper/Code                                                   |
@@ -67,8 +67,10 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 ## Dataset
 
-| **Name** | **Year** | **Pub.** | **Intro** |
-| :------: | :------: | :-------: | :---------|
+| **Name** | **Year** | **Pub.** | **Links** | **Comments** | 
+| :------: | :------: | :-------: | :---------| :--------- |
+[MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 | CVPR | [Paper](https://arxiv.org/abs/2203.07363) | VCOD, 87 video, 22,939 frames, pixel-wise masks + bounding box | 
+[MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/) | 2020 | ACCV | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.html) | VCOD, 141 Videos, 37K frames, bounding box  
 [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment) | 2021 | CVPR | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lv_Simultaneously_Localize_Segment_and_Rank_the_Camouflaged_Objects_CVPR_2021_paper.pdf) 
 [COD10K](http://dpfan.net/camouflage/) | 2020 | CVPR | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Camouflaged_Object_Detection_CVPR_2020_paper.pdf) 
 [CAMO](https://sites.google.com/view/ltnghia/research/camo) | 2019 | CVIU | [Paper](http://www.dgcv.nii.ac.jp/Publications/Papers/2019/cviu2019.pdf)
