@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for camouflaged/concealed object detection (COD). We will keep updating it.
 
-:heavy_exclamation_mark:Updated 2022-04-30.
+:heavy_exclamation_mark:Updated 2022-06-27.
 
 
 --------------------------------------------------------------------------------------
@@ -23,19 +23,22 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| --     | arXiv | Deep Gradient Learning for Efficient Camouflaged Object Detection | Ge-Peng Gi, Deng-Ping Fan, et al. | [Paper](https://arxiv.org/abs/2205.12853)/[Code](https://github.com/GewelsJI/DGNet)
+| --     | arXiv | Towards Deeper Understanding of Camouflaged Object Detection ``LSR extension`` | Yunqiu Lv, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2205.11333)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)
 |   --   |  arXiv   | High-resolution Iterative Feedback Network for Camouflaged Object Detection | Xiaobin Hu, Deng-Ping Fan, et al. | [Paper](https://arxiv.org/abs/2203.11624)/[Code](https://github.com/HUuxiaobin/HitNet) 
 |   --   |  arXiv   | Transformer transforms salient object detection and camouflaged object detection | Yuxin Mao, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2104.10127)/[Code](https://github.com/fupiao1998/TrasformerSOD)
 |   --   |  arXiv   | Exploring Depth Contribution for Camouflaged Object Detection | Mochu Xiang, Yuchao Dai, et al. | [Paper](https://arxiv.org/abs/2106.13217v3)/Code
 |   --   |  arXiv   | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion | Bo Dong, et al. | [Paper](https://arxiv.org/pdf/2101.05687.pdf)/[Code](https://github.com/BigHeartDB/MCIFNet)  
-|   --   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/Code 
-|   2022   |  IJCAI   | Boundary-Guided Camouflaged Object Detection | -- | Paper/Code
+|   --   |  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, et al. | [Paper](https://arxiv.org/pdf/2101.04704.pdf)/[Code](https://github.com/xuebinqin/BASNet) 
+|   2022   |  IJCAI   | Boundary-Guided Camouflaged Object Detection | Yujia Sun, Shuo Wang, et al. | [Paper]()/[Code](https://github.com/thograce/BGNet)
 |   2022   |   CVPR   | ~~DTA: Physical Camouflage Attacks using Differentiable Transformation Network~~ | Naufal Suryanto, et al. | [Paper](https://arxiv.org/abs/2203.09831)/Code
-|   2022   |   CVPR   | Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way | Qi Jia, S. Yao, Yu Liu, et al. | [Paper]()/Code 
-|   2022   |   CVPR   | Detecting Camouflaged Object in Frequency Domain | Yijie Zhong, Bo Li, et al. | Paper/Code
+|   2022   |   CVPR   | Segment, Magnify and Reiterate: Detecting Camouflaged Objects the Hard Way | Qi Jia, S. Yao, Yu Liu, et al. | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Segment_Magnify_and_Reiterate_Detecting_Camouflaged_Objects_the_Hard_Way_CVPR_2022_paper.pdf)/[Code](https://github.com/dlut-dimt/SegMaR) 
+|   2022   |   CVPR   | Detecting Camouflaged Object in Frequency Domain | Yijie Zhong, Bo Li, et al. | [Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Detecting_Camouflaged_Object_in_Frequency_Domain_CVPR_2022_paper.pdf)/Code
 |   2022   |   CVPR   | Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper](https://arxiv.org/abs/2203.02688)/[Code](https://github.com/lartpang/ZoomNet) |
 |   2022   |   CVPR   | Implicit Motion Handling for Video Camouflaged Object Detection `MoCA-Mask` | Xuelian Cheng, Deng-Ping Fan, et al. | [Paper](https://dengpingfan.github.io/papers/[2022][CVPR]VCOD_MoCA-Mask.pdf)/[Code](https://github.com/XuelianCheng/SLT-Net)
 |   2022   |  AAAI    | I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection | Hongwei Zhu, Mingqiang Wei, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-6565.ZhuH.pdf)/[Code](https://github.com/WolfberryCoke/BSA-Net) | 
 |   2022   |  WACV    | Modeling Aleatoric Uncertainty for Camouflaged Object Detection | J Liu, J Zhang, N Barnes | [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Liu_Modeling_Aleatoric_Uncertainty_for_Camouflaged_Object_Detection_WACV_2022_paper.pdf)/[Code](https://github.com/Carlisle-Liu/OCENet)
+|   2022   |  TMM     | ~~Location-Free Camouflage Generation Network~~ | Yangyang Li, Wei Zhai, et al. | [Paper](https://arxiv.org/abs/2203.09845)/[Code](https://github.com/Tale17/LCG-Net) 
 |   2022   |  KBS     | Boundary-guided network for camouflage object detection | Tianyou Chen, Jin Xiao, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122004294)/[Code](https://github.com/clelouch/BgNet)
 |   2022   |  PR      | CubeNet: X-shape connection for camouflaged object detection | Mingchen Zhuge, Xiank Lu, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032200125X?dgcid=raven_sd_recommender_email)/[Code](https://github.com/mczhuge/CubeNet)
 |   2022   |  PR      | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network | Ge-Peng Ji, et al. | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet)
