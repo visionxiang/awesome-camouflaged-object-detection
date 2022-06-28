@@ -25,7 +25,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| --     | arXiv | Deep Gradient Learning for Efficient Camouflaged Object Detection | Ge-Peng Gi, Deng-Ping Fan, et al. | [Paper](https://arxiv.org/abs/2205.12853)/[Code](https://github.com/GewelsJI/DGNet)
+| --     | arXiv | Deep Gradient Learning for Efficient Camouflaged Object Detection | G-P Gi, D-P Fan, et al. | [Paper](https://arxiv.org/abs/2205.12853)/[Code](https://github.com/GewelsJI/DGNet)
 | --     | arXiv | Towards Deeper Understanding of Camouflaged Object Detection ``LSR extension`` | Yunqiu Lv, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2205.11333)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)
 |   --   |  arXiv   | High-resolution Iterative Feedback Network for Camouflaged Object Detection | Xiaobin Hu, Deng-Ping Fan, et al. | [Paper](https://arxiv.org/abs/2203.11624)/[Code](https://github.com/HUuxiaobin/HitNet) 
 |   --   |  arXiv   | Transformer transforms salient object detection and camouflaged object detection | Yuxin Mao, Jing Zhang, et al. | [Paper](https://arxiv.org/abs/2104.10127)/[Code](https://github.com/fupiao1998/TrasformerSOD)
