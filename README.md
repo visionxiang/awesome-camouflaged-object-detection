@@ -52,7 +52,6 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2021   |  TCSVT   | Deep Texture-Aware Features for Camouflaged Object Detection | Jingjing Ren, Xiaowei Hu, et al. | [Paper](https://arxiv.org/pdf/2102.02996.pdf)/Code
 |   2021   |   PAMI   | **Concealed Object Detection** `COD10K`                       | Deng-Ping Fan, Ge-Peng Ji, et al.                            | [Paper](https://arxiv.org/abs/2102.10274)/[Code](https://github.com/GewelsJI/SINet-V2)                                                   |
 |   2021   |   ICCV   | Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection | Fan Yang, Qiang Zhai, et al.                                 | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Uncertainty-Guided_Transformer_Reasoning_for_Camouflaged_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/fanyang587/UGTR)                                                   |
 |   2021   |   CVPR   | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection | Aixuan Li, Jing Zhang, et al.                    | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Uncertainty-Aware_Joint_Salient_Object_and_Camouflaged_Object_Detection_CVPR_2021_paper.html)/[Code](https://github.com/JingZhang617/Joint_COD_SOD) |
@@ -62,6 +61,8 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 |   2021   |  IJCAI   | Context-aware Cross-level Fusion Network for Camouflaged Object Detection | Yujia Sun, Geng Chen, et al.                                 | [Paper](https://arxiv.org/abs/2105.12555)/[Code](https://github.com/thograce/C2FNet) |
 |   2021   |   AAAI   | Inferring Camouflaged Objects by Texture-Aware Interactive Guidance Network | Jinchao Zhu, et al.                                          | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16475)/Code |
 | 2021 | AAAI | CamouFinder: Finding Camouflaged Instances in Images `demo` | Trung-Nghia Le, et al. | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/18015)/[Video](https://www.youtube.com/watch?v=RI4nt5MDmwE&ab_channel=TrungNgh%C4%A9aL%C3%AA)
+|   2021   | TIE | D2C-Net: A Dual-branch, Dual-guidance and Cross-refine Network for Camouflaged Object Detection | Kang Wang, Hongbo Bi, et al. | [Paper](https://ieeexplore.ieee.org/document/9430677)/[Code](https://github.com/MS-KangWang/COD-D2Net)
+|   2021   |  TCSVT   | Deep Texture-Aware Features for Camouflaged Object Detection | Jingjing Ren, Xiaowei Hu, et al. | [Paper](https://arxiv.org/pdf/2102.02996.pdf)/Code
 |   2021   |   Access | MirrorNet: Bio-Inspired Camouflaged Object Segmentation | Trung-Nghia Le, et al. | [Paper](https://arxiv.org/abs/2007.12881)/[Proj](https://sites.google.com/view/ltnghia/research/camo)
 
 
