@@ -42,11 +42,12 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 |   2022   |  AAAI    | I can find you! Boundary-guided Separated Attention Network for Camouflaged Object Detection | Hongwei Zhu, Mingqiang Wei, et al. | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-6565.ZhuH.pdf)/[Code](https://github.com/WolfberryCoke/BSA-Net) | 
 |   2022   |  WACV    | Modeling Aleatoric Uncertainty for Camouflaged Object Detection | J Liu, J Zhang, N Barnes | [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Liu_Modeling_Aleatoric_Uncertainty_for_Camouflaged_Object_Detection_WACV_2022_paper.pdf)/[Code](https://github.com/Carlisle-Liu/OCENet)
 |   2022   |  TIP  | Camouflaged Instance Segmentation In-The-Wild: Dataset, Method, and Benchmark Suite | Trung-Nghia Le, et al. | [Paper](https://arxiv.org/abs/2103.17123)/[Proj](https://sites.google.com/view/ltnghia/research/camo_plus_plus)
+|   2022   |  TMM  | Deep Texton-Coherence Network for Camouflaged Object Detection | Wei Zhai, Yang Cao, et al. | [Paper](https://ieeexplore.ieee.org/abstract/document/9815160)/Code
 |   2022   |  TMM     | ~~Location-Free Camouflage Generation Network~~ | Yangyang Li, Wei Zhai, et al. | [Paper](https://arxiv.org/abs/2203.09845)/[Code](https://github.com/Tale17/LCG-Net) 
 |   2022   |  KBS     | Boundary-guided network for camouflage object detection | Tianyou Chen, Jin Xiao, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122004294)/[Code](https://github.com/clelouch/BgNet)
 |   2022   |  PR      | CubeNet: X-shape connection for camouflaged object detection | Mingchen Zhuge, Xiank Lu, et al. | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032200125X?dgcid=raven_sd_recommender_email)/[Code](https://github.com/mczhuge/CubeNet)
 |   2022   |  PR      | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network | Ge-Peng Ji, et al. | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet) 
-<!-- |   2022   |  TOMM | Frequency-aware Camouflaged Object Detection | Jiaying Lin, Ke Xu, et al. | [Paper](https://dl.acm.org/doi/abs/10.1145/3545609)/Code -->
+|   2022   |  TOMM | Frequency-aware Camouflaged Object Detection | Jiaying Lin, Ke Xu, et al. | [Paper](https://dl.acm.org/doi/abs/10.1145/3545609)/Code
 
 
 ### 2021
