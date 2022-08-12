@@ -20,7 +20,15 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 
 
-## Paper List
+## Paper List 
+
+<!--Transformer for COD:
+  1) [COD] Boosting COD with Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer, ICPR
+  2) [COD] High-resolution Iterative Feedback Network for Camouflaged Object Detection, arXiv
+  3) [COD] Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection, ICCV21
+  4) [CIS] OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers, ECCV22
+  5) [COD] Generative Transformer for Accurate and Reliable Salient Object Detection, arXiv
+-->
 
 ### 2022 
 
