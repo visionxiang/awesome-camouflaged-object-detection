@@ -32,6 +32,8 @@ A curated list of awesome resources for camouflaged/concealed object detection (
   4) [CIS] OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers, ECCV22
   5) [COD] Generative Transformer for Accurate and Reliable Salient Object Detection, arXiv
 -->
+<!-- arXiv, Weakly-Supervised Camouflaged Object Detection with Scribble Annotations, Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau-->
+
 
 ### 2022 
 
@@ -59,9 +61,6 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 |   2022   |  PR      | CubeNet: X-shape connection for camouflaged object detection <br> <sup><sub>*Mingchen Zhuge, Xiankai Lu, Yiyou Guo, Zhihua Cai, Shuhan Chen*</sub></sup> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132032200125X?dgcid=raven_sd_recommender_email)/[Code](https://github.com/mczhuge/CubeNet)
 |   2022   |  PR      | Fast Camouflaged Object Detection via Edge-based Reversible Re-calibration Network <br><sup><sub>*Ge-Peng Ji, Lei Zhu, Mingchen Zhuge, Keren Fu*</sub></sup> | [Paper](https://arxiv.org/abs/2111.03216)/[Code](https://github.com/GewelsJI/ERRNet) 
 |   2022   |  TOMM | Frequency-aware Camouflaged Object Detection <br> <sup><sub>*Jiaying Lin, Xin Tan, Ke Xu, Lizhuang Ma, Rynson W.H. Lau*</sub></sup> | [Paper](https://dl.acm.org/doi/abs/10.1145/3545609)/Code 
-
-<!-- arXiv, GANmouflage: 3D Object Nondetection with Texture Fields, Rui Guo, Jasmine Collins, Oscar de Lima, Andrew Owens --> 
-<!-- arXiv, Weakly-Supervised Camouflaged Object Detection with Scribble Annotations, Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau-->
 
 
 
