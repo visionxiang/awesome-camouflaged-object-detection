@@ -3,6 +3,7 @@
 
 A curated list of awesome resources for camouflaged/concealed object detection (COD). We will keep updating it.
 
+:heavy_exclamation_mark: [08/2023] Update ICCV2023, MM2023, etc. papers for COD and CIS.   
 :heavy_exclamation_mark: [04/2023] Update CVPR2023 papers for COD and CIS.
 
 
@@ -38,6 +39,9 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| --     | arXiv | Pre-train, Adapt and Detect: Multi-Task Adapter Tuning for Camouflaged Object Detection    <br> <sup><sub>*Yinghui Xing, Dexuan Kong, Shizhou Zhang, Geng Chen, Lingyan Ran, Peng Wang, Yanning Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.10685)/Code
+| --     | arXiv | Joint Salient Object Detection and Camouflaged Object Detection via Uncertainty-aware Learning   <br> <sup><sub>*Aixuan Li, Jing Zhang, Yunqiu Lv, Tong Zhang, Yiran Zhong, Mingyi He, Yuchao Dai*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.04651)/[Code](https://npucvr.github.io/UJSCOD/)
+| --     | arXiv | CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models   <br> <sup><sub>*Zhongxi Chen, Ke Sun, Xianming Lin, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2305.17932)/[Code](https://github.com/Rapisurazurite/CamoDiffusion)
 | --     | arXiv | Referring Camouflaged Object Detection   <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup>  | [Paper](https://arxiv.org/abs/2306.07532)/[Code](https://github.com/zhangxuying1004/RefCOD)
 | --     | arXiv | SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More  <br> <sup><sub>*Tianrun Chen, Lanyun Zhu, Chaotao Ding, Runlong Cao, Yan Wang, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang*</sub></sup> | [Paper](https://arxiv.org/abs/2304.09148)/Code
 | --     | arXiv | DQnet: Cross-Model Detail Querying for Camouflaged Object Detection <br> <sup><sub>*Wei Sun, Chengao Liu, Linyan Zhang, Yu Li, Pengxu Wei, Chang Liu, Jialing Zou, Jianbin Jiao, Qixiang Ye*</sub></sup> | [Paper](https://arxiv.org/abs/2212.08296)/Code
@@ -52,9 +56,10 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 ### 2023
 
-
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2023  | ACM MM | A Unified Query-based Paradigm for Camouflaged Instance Segmentation  <br> <sup><sub>*Do Dong, Jialun Pei, Rongrong Gao, Tian-Zhu Xiang, Shuo Wang, Huan Xiong*</sub></sup>  | [Paper](https://arxiv.org/abs/2308.07392)/[Code](https://github.com/dongbo811/UQFormer)
+| 2023  | ACM MM | Frequency Perception Network for Camouflaged Object Detection  <br> <sup><sub>*Runmin Cong, Mengyao Sun, Sanyi Zhang, Xiaofei Zhou, Wei Zhang, Yao Zhao*</sub></sup>  | [Paper](https://arxiv.org/abs/2308.08924)/[Code](https://github.com/rmcong/FPNet_ACMMM23)
 | 2023  | ICCV | Source-free Depth for Object Pop-out  <br> <sup><sub>*Zongwei Wu, Danda Pani Paudel, Deng-Ping Fan, Jingjing Wang, Shuo Wang, Cedric Demonceaux, Radu Timofte, Luc Van Gool*</sub></sup>  | [Paper](https://arxiv.org/abs/2212.05370)/[Code](https://github.com/Zongwei97/PopNet)
 | 2023  | CVPR | Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers  <br> <sup><sub>*Zhou Huang, Hang Dai, Tian-Zhu Xiang, Shuo Wang, Huai-Xin Chen, Jie Qin, and Huan Xiong*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.14816)/[Code](https://github.com/ZhouHuang23/FSPNet)
 | 2023  | CVPR | Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*</sub></sup>  | Paper/[Code](https://github.com/ChunmingHe/FEDER)
@@ -62,7 +67,11 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 | 2023  | CVPR | Indiscernible Object Counting in Underwater Scenes   <br> <sup><sub>*Guolei Sun, Zhaochong An, Yun Liu, Ce Liu, Christos Sakaridis, Deng-Ping Fan, Luc Van Gool*</sub></sup>  | Paper/[Code](https://github.com/GuoleiSun/Indiscernible-Object-Counting)
 | 2023  | AAAI | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations  <br> <sup><sub>*Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau*</sub></sup>  | [Paper](https://arxiv.org/abs/2207.14083)/[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
 | 2023  |  AAAI   | High-resolution Iterative Feedback Network for Camouflaged Object Detection <br> <sup><sub>*Xiaobin Hu, Deng-Ping Fan, Xuebin Qin, et al.*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25167)/[Code](https://github.com/HUuxiaobin/HitNet) 
-| 2023 | WACV | MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection   <br> <sup><sub>*Dehua Zheng, Xiaochen Zheng, Laurence T. Yang, Yuan Gao, Chenlu Zhu, Yiheng Ruan*</sub></sup> | [Paper](https://arxiv.org/abs/2210.06361)/[Code](https://github.com/dwardzheng/MFFN_COD)
+| 2023 | ECAI | Diffusion Model for Camouflaged Object Detection     <br> <sup><sub>*Zhennan Chen, Rongrong Gao, Tian-Zhu Xiang, Fan Lin*</sub></sup> | [Paper](https://arxiv.org/abs/2308.00303)/[Code](https://github.com/ZNan-Chen/diffCOD)
+| 2023  | ICME | Edge-Aware Mirror Network for Camouflaged Object Detection  <br> <sup><sub>*Dongyue Sun, Shiyao Jiang, Lin Qi*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.03932)/[Code](https://github.com/sdy1999/EAMNet)
+| 2023  | ICME | Camouflaged Object Detection with Feature Grafting and Distractor Aware `ACOD2K` <br> <sup><sub>*Yuxuan Song, Xinyue Li, Lin Qi*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.03943)/[Code](https://github.com/syxvision/FDNet)
+| 2023  | ICME | OAFormer: Occlusion Aware Transformer for Camouflaged Object Detection <br> <sup><sub>*Xin Yang, Hengliang Zhu, Guojun Mao, Shuli Xing*</sub></sup>  | Paper/Code
+| 2023  | WACV | MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection   <br> <sup><sub>*Dehua Zheng, Xiaochen Zheng, Laurence T. Yang, Yuan Gao, Chenlu Zhu, Yiheng Ruan*</sub></sup> | [Paper](https://arxiv.org/abs/2210.06361)/[Code](https://github.com/dwardzheng/MFFN_COD)
 | --  | -- | -- | -- |
 | 2023    | VI | Advances in Deep Concealed Scene Understanding   <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6#article-info)/[Project](https://github.com/DengPingFan/CSU)
 | 2023 | TIP  | Predictive Uncertainty Estimation for Camouflaged Object Detection <br> <sup><sub>*Yi Zhang, Jing Zhang, Wassim Hamidouche, Olivier Deforges*</sub></sup> | [Paper](https://hal.science/hal-04142929/)/[Code](https://github.com/Jun-Pu/PUENet)
@@ -151,6 +160,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2023  | ACM MM | A Unified Query-based Paradigm for Camouflaged Instance Segmentation  <br> <sup><sub>*Do Dong, Jialun Pei, Rongrong Gao, Tian-Zhu Xiang, Shuo Wang, Huan Xiong*</sub></sup>  | [Paper](https://arxiv.org/abs/2308.07392)/[Code](https://github.com/dongbo811/UQFormer)
 | 2023     | CVPR     | Camouflaged Instance Segmentation via Explicit De-camouflaging  <br> <sup><sub>*Naisong Luo, Yuwen Pan, Rui Sun, Tianzhu Zhang, Zhiwei Xiong, Feng Wu*</sub></sup>  | Paper/Code
 |   2022   |  ECCV    | OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers <br> <sup><sub>*Jialun Pei, Tianyang Cheng, Deng-Ping Fan, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2207.02255)/[Code](https://github.com/PJLallen/OSFormer)
 |   2022   |  TIP  | Camouflaged Instance Segmentation In-The-Wild: Dataset, Method, and Benchmark Suite <br> <sup><sub>*Trung-Nghia Le, Yubo Cao, Tan-Cong Nguyen, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2103.17123)/[Proj](https://sites.google.com/view/ltnghia/research/camo_plus_plus)
