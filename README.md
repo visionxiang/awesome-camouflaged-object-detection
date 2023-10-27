@@ -90,7 +90,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 | 2023 | TIP  | Predictive Uncertainty Estimation for Camouflaged Object Detection <br> <sup><sub>*Yi Zhang, Jing Zhang, Wassim Hamidouche, Olivier Deforges*</sub></sup> | [Paper](https://hal.science/hal-04142929/)/[Code](https://github.com/Jun-Pu/PUENet)
 | 2023 | TCSVT | MSCAF-Net: A General Framework for Camouflaged Object Detection via Learning Multi-Scale Context-Aware Features  <br> <sup><sub>*Yu Liu; Haihang Li; Juan Cheng; Xun Chen*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10045692)/[Code](https://github.com/yuliu316316/MSCAF-COD) 
 | 2023 | TCSVT | Go Closer To See Better: Camouflaged Object Detection via Object Area Amplification and Figure-ground Conversion  <br> <sup><sub>*Haozhe Xing; Yan Wang; Xujun Wei; Hao Tang; Shuyong Gao; Wenqiang Zhang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10065514)/[Code](https://github.com/Haozhe-Xing/SARNet)
-| 2023 | TCSVT | Towards Deeper Understanding of Camouflaged Object Detection `CVPR21 (LSR) extension` <br> <sup><sub>*Yunqiu Lv, Jing Zhang, Yuchao Dai, Aixuan Li, Nick Barnes, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/abs/2205.11333)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)
+| 2023 | TCSVT | Towards Deeper Understanding of Camouflaged Object Detection `CVPR21 (LSR) extension` `CAM-LDR` <br> <sup><sub>*Yunqiu Lv, Jing Zhang, Yuchao Dai, Aixuan Li, Nick Barnes, Deng-Ping Fan*</sub></sup> | [Paper](https://arxiv.org/abs/2205.11333)/[Code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)
 
 
 
