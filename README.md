@@ -55,6 +55,13 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 
 
+### 2024
+
+| **Year** | **Pub.** | **Title**          | **Links**        |
+| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2024 | Neucom | A systematic review of image-level camouflaged object detection with deep learning  <br> <sup><sub>*Yanhua Liang, Guihe Qin, Minghui Sun, Xinchao Wang, Jie Yan, Zhonghan Zhang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011736)/Code
+
+
 ### 2023
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
@@ -78,9 +85,12 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 | 2023  | ICME | Edge-Aware Mirror Network for Camouflaged Object Detection  <br> <sup><sub>*Dongyue Sun, Shiyao Jiang, Lin Qi*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.03932)/[Code](https://github.com/sdy1999/EAMNet)
 | 2023  | ICME | Camouflaged Object Detection with Feature Grafting and Distractor Aware `ACOD2K` <br> <sup><sub>*Yuxuan Song, Xinyue Li, Lin Qi*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.03943)/[Code](https://github.com/syxvision/FDNet)
 | 2023  | ICME | OAFormer: Occlusion Aware Transformer for Camouflaged Object Detection <br> <sup><sub>*Xin Yang, Hengliang Zhu, Guojun Mao, Shuli Xing*</sub></sup>  | Paper/Code
+| 2023 | ICME | CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection   <br> <sup><sub>*Qing ZhangWeiqi Yan*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/10219858)/[Code](https://github.com/ZhangQing0329/CFANet)
 | 2023  | WACV | MFFN: Multi-view Feature Fusion Network for Camouflaged Object Detection   <br> <sup><sub>*Dehua Zheng, Xiaochen Zheng, Laurence T. Yang, Yuan Gao, Chenlu Zhu, Yiheng Ruan*</sub></sup> | [Paper](https://arxiv.org/abs/2210.06361)/[Code](https://github.com/dwardzheng/MFFN_COD)
 | --  | -- | -- | -- | 
 | 2023 | TNNLS | Collaborative Camouflaged Object Detection: A Large-Scale Dataset and Benchmark `CoCOD8K`   <br> <sup><sub>*Cong Zhang, Hongbo Bi, Tian-Zhu Xiang, Ranwan Wu, Jinghui Tong, Xiufang Wang*</sub></sup> | [Paper](https://arxiv.org/abs/2310.04253)/[Code](https://github.com/zc199823/BBNet--CoCOD)
+| 2023 | TNNLS | Camouflaged Object Segmentation Based on Matching–Recognition–Refinement Network  <br> <sup><sub>*Xinyu Yan; Meijun Sun; Yahong Han; Zheng Wang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/document/10180211)/[Code](https://github.com/XinyuYanTJU/MRR-Net)
+| 2023 | IJCV | Camouflaged Object Segmentation with Omni Perception   <br> <sup><sub>*Haiyang Mei, Ke Xu, Yunduo Zhou, Yang Wang, Haiyin Piao, Xiaopeng Wei, Xin Yang*</sub></sup> | [Paper](https://www.researchgate.net/publication/372312626_Camouflaged_Object_Segmentation_with_Omni_Perception)/Code
 | 2023 | TCSVT | Dual-Constraint Coarse-to-Fine Network for Camouflaged Object Detection  <br> <sup><sub>*Guanghui Yue; Houlu Xiao; Hai Xie; Tianwei Zhou; Wei Zhou; Weiqing Yan; etc.*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10262011)/Code 
 | 2023 | TMM | UEDG: Uncertainty-Edge Dual Guided Camouflage Object Detection   <br> <sup><sub>*Lyu, Yixuan and Zhang, Hong and Li, Yan and Liu, Hanyang and Yang, Yifan and Yuan, Ding*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/10183371)/[Code](https://github.com/lyu-yx/UEDG) 
 | 2023 | TIP | Zero-Shot Camouflaged Object Detection    <br> <sup><sub>*Haoran Li; Chun-Mei Feng; Yong Xu; Tao Zhou; Lina Yao; Xiaojun Chang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10234216)/Code 
