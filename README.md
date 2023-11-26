@@ -66,7 +66,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| 2023  | NeurIPS | Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2305.11003)/Code
+| 2023  | NeurIPS | Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2305.11003)/[Code](https://github.com/ChunmingHe/WS-SAM)
 | 2023  | ACM MM | A Unified Query-based Paradigm for Camouflaged Instance Segmentation  <br> <sup><sub>*Do Dong, Jialun Pei, Rongrong Gao, Tian-Zhu Xiang, Shuo Wang, Huan Xiong*</sub></sup>  | [Paper](https://arxiv.org/abs/2308.07392)/[Code](https://github.com/dongbo811/UQFormer)
 | 2023  | ACM MM | Frequency Perception Network for Camouflaged Object Detection  <br> <sup><sub>*Runmin Cong, Mengyao Sun, Sanyi Zhang, Xiaofei Zhou, Wei Zhang, Yao Zhao*</sub></sup>  | [Paper](https://arxiv.org/abs/2308.08924)/[Code](https://github.com/rmcong/FPNet_ACMMM23)
 | 2023  | ACM MM | Frequency Representation Integration for Camouflaged Object Detection  <br> <sup><sub>*Chenxi Xie,Changqun Xia,Tianshu Yu,Jia Li*</sub></sup> | [Paper](https://dl.acm.org/doi/10.1145/3581783.3611773)/Code
