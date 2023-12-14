@@ -59,6 +59,7 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| 2024 |  AAAI  | Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects   <br> <sup><sub>*Jian Hu, Jiayi Lin, Weitong Cai, Shaogang Gong*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.07374)/[Proj](https://lwpyh.github.io/GenSAM/)/[Code](https://github.com/jyLin8100/GenSAM)
 | 2024 | Neucom | A systematic review of image-level camouflaged object detection with deep learning  <br> <sup><sub>*Yanhua Liang, Guihe Qin, Minghui Sun, Xinchao Wang, Jie Yan, Zhonghan Zhang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011736)/Code
 
 
