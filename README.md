@@ -234,10 +234,10 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 ## Other Related 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2023   |   arXiv  | CamDiff: Camouflage Image Augmentation via Diffusion Model  <br> <sup><sub>*Xue-Jing Luo, Shuo Wang, Zongwei Wu, Christos Sakaridis, Yun Cheng, Deng-Ping Fan, Luc Van Gool*</sub></sup> | [Paper](https://arxiv.org/abs/2304.05469)/Code 
-|   2022   |  arXiv   | GANmouflage: 3D Object Nondetection with Texture Fields <br> <sup><sub>*Rui Guo, Jasmine Collins, Oscar de Lima, Andrew Owens*</sub></sup>  | [Paper](https://arxiv.org/abs/2201.07202)/[Proj](https://rrrrrguo.github.io/ganmouflage/)
-|   2022   |   CVPR   | DTA: Physical Camouflage Attacks using Differentiable Transformation Network <br> <sup><sub>*Naufal Suryanto, Yongsu Kim, Hyoeun Kang, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09831)/Code
-|   2022   |  TMM     | Location-Free Camouflage Generation Network <br> <sup><sub>*Yangyang Li, Wei Zhai, Yang Cao, Zheng-jun Zha*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09845)/[Code](https://github.com/Tale17/LCG-Net) 
+|   2023   |   AIR  | CamDiff: Camouflage Image Augmentation via Diffusion Model  <br> <sup><sub>*Xue-Jing Luo, Shuo Wang, Zongwei Wu, Christos Sakaridis, Yun Cheng, Deng-Ping Fan, Luc Van Gool*</sub></sup> | [Paper](https://arxiv.org/abs/2304.05469)/[Code](https://github.com/drlxj/CamDiff) 
+|   2022   |  CVPR   | GANmouflage: 3D Object Nondetection with Texture Fields <br> <sup><sub>*Rui Guo, Jasmine Collins, Oscar de Lima, Andrew Owens*</sub></sup>  | [Paper](https://arxiv.org/abs/2201.07202)/[Proj](https://rrrrrguo.github.io/ganmouflage/)
+|   2022   |  CVPR   | DTA: Physical Camouflage Attacks using Differentiable Transformation Network <br> <sup><sub>*Naufal Suryanto, Yongsu Kim, Hyoeun Kang, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09831)/Code
+|   2022   |  TMM    | Location-Free Camouflage Generation Network <br> <sup><sub>*Yangyang Li, Wei Zhai, Yang Cao, Zheng-jun Zha*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09845)/[Code](https://github.com/Tale17/LCG-Net) 
 
 
 
