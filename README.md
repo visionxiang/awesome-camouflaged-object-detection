@@ -17,6 +17,9 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 - [Camouflaged Object Detection (COD)](#COD)
 - [Video Camouflaged Object Detection (VCOD)](#VCOD)
 - [Camouflaged Instance Segmentation (CIS)](#CIS)
+- [Weakly-supervised COD](#WSCOD)
+- [Referring COD](#RefCOD)
+- [Open-Vocabulary COS](#OVCOS)
 - [Other Related](#Other-Related)
 - [Datasets](#Datasets)
 - [Appendix](#Appendix)
@@ -190,10 +193,42 @@ A curated list of awesome resources for camouflaged/concealed object detection (
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 2023  | ACM MM | A Unified Query-based Paradigm for Camouflaged Instance Segmentation  <br> <sup><sub>*Do Dong, Jialun Pei, Rongrong Gao, Tian-Zhu Xiang, Shuo Wang, Huan Xiong*</sub></sup>  | [Paper](https://arxiv.org/abs/2308.07392)/[Code](https://github.com/dongbo811/UQFormer)
+| 2023     | ACM MM   | A Unified Query-based Paradigm for Camouflaged Instance Segmentation  <br> <sup><sub>*Do Dong, Jialun Pei, Rongrong Gao, Tian-Zhu Xiang, Shuo Wang, Huan Xiong*</sub></sup>  | [Paper](https://arxiv.org/abs/2308.07392)/[Code](https://github.com/dongbo811/UQFormer)
 | 2023     | CVPR     | Camouflaged Instance Segmentation via Explicit De-camouflaging  <br> <sup><sub>*Naisong Luo, Yuwen Pan, Rui Sun, Tianzhu Zhang, Zhiwei Xiong, Feng Wu*</sub></sup>  | Paper/Code
 |   2022   |  ECCV    | OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers <br> <sup><sub>*Jialun Pei, Tianyang Cheng, Deng-Ping Fan, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2207.02255)/[Code](https://github.com/PJLallen/OSFormer)
-|   2022   |  TIP  | Camouflaged Instance Segmentation In-The-Wild: Dataset, Method, and Benchmark Suite <br> <sup><sub>*Trung-Nghia Le, Yubo Cao, Tan-Cong Nguyen, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2103.17123)/[Proj](https://sites.google.com/view/ltnghia/research/camo_plus_plus)
+|   2022   |  TIP     | Camouflaged Instance Segmentation In-The-Wild: Dataset, Method, and Benchmark Suite <br> <sup><sub>*Trung-Nghia Le, Yubo Cao, Tan-Cong Nguyen, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2103.17123)/[Proj](https://sites.google.com/view/ltnghia/research/camo_plus_plus)
+| 2021     | AAAI     | CamouFinder: Finding Camouflaged Instances in Images `Demo` <br><sup><sub>*Trung-Nghia Le, Vuong Nguyen, Cong Le, et al.*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/18015)/[Video](https://www.youtube.com/watch?v=RI4nt5MDmwE&ab_channel=TrungNgh%C4%A9aL%C3%AA)
+
+
+
+## WSCOD 
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2023  | NeurIPS | Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2305.11003)/[Code](https://github.com/ChunmingHe/WS-SAM)
+| 2023  | AAAI | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations  <br> <sup><sub>*Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau*</sub></sup>  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25156)/[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
+
+
+## RefCOD
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2023  | arXiv | Large Model Based Referring Camouflaged Object Detection   <br> <sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.17122)/Code
+| 2023  | arXiv | Referring Camouflaged Object Detection   <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup>  | [Paper](https://arxiv.org/abs/2306.07532)/[Code]([https://github.com/ChunmingHe/WS-SAM](https://github.com/zhangxuying1004/RefCOD))
+
+
+
+## OVCOS
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2023  | arXiv | Open-Vocabulary Camouflaged Object Segmentation   <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.11241)/Code
+| 2023  | arXiv | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation  <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)/Code 
+
+
+
+
+
 
 
 ## Other Related 
