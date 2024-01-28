@@ -3,7 +3,7 @@
 
 A curated list of awesome resources for camouflaged/concealed object detection (COD). We will keep updating it.
 
-:heavy_exclamation_mark: [1/2024] Update ICLR2024, WACV2024 papers.   
+:heavy_exclamation_mark: [01/2024] Update ICLR2024, WACV2024 papers.   
 :heavy_exclamation_mark: [12/2023] Update NeurIPS2023, AAAI2024 papers.   
 :heavy_exclamation_mark: [08/2023] Update ICCV2023, MM2023, etc. papers for COD and CIS.   
 :heavy_exclamation_mark: [04/2023] Update CVPR2023 papers for COD and CIS.
