@@ -49,6 +49,7 @@ We commit to maintaining regular updates to ensure the continuous enhancement of
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| --    | arXiv | The Art of Camouflage: Few-shot Learning for Animal Detection and Segmentation  <br> <sup><sub>*Thanh-Danh Nguyen, Anh-Khoa Nguyen Vu, Nhat-Duy Nguyen, Vinh-Tiep Nguyen, Thanh Duc Ngo, et al.*</sub></sup>  | [Paper](https://arxiv.org/abs/2304.07444)/Code
 | --     | arXiv | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation   <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)/Code
 | --     | arXiv | ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection   <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2310.20208)/[Code](https://github.com/lartpang/ZoomNeXt)
 | --     | arXiv | Pre-train, Adapt and Detect: Multi-Task Adapter Tuning for Camouflaged Object Detection    <br> <sup><sub>*Yinghui Xing, Dexuan Kong, Shizhou Zhang, Geng Chen, Lingyan Ran, Peng Wang, Yanning Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.10685)/Code
