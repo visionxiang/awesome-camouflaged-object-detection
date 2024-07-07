@@ -256,7 +256,7 @@ We commit to maintaining regular updates to ensure the continuous enhancement of
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 2023  | arXiv | Open-Vocabulary Camouflaged Object Segmentation   <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  <br><sup>`[OVCamo dataset]`</sup>  | [Paper](https://arxiv.org/abs/2311.11241)/Code
+| 2024  | ECCV | Open-Vocabulary Camouflaged Object Segmentation   <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  <br><sup>`[OVCamo dataset]`</sup>  | [Paper](https://arxiv.org/abs/2311.11241)/[Code](https://github.com/lartpang/OVCamo)
 | 2023  | arXiv | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation  <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)/Code 
 
 
