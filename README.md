@@ -1,7 +1,7 @@
 
 # Awesome Camouflaged Object Detection <a href="https://github.com/sindresorhus/awesome"><img src="figs/awesome.png" alt="Awesome" style="max-width: 100%;" width="100"></a>
 
-A curated list of awesome resources for **Camouflaged Object Detection (COD)**, including: 
+A curated collection of awesome resources for **Camouflaged Object Detection (COD)**, including: 
 - Camouflaged/Concealed Object Detection (COD)  
 - Camouflaged/Concealed Object Segmentation (COS)  
 - Camouflaged/Concealed Scene Understanding (CSU)
