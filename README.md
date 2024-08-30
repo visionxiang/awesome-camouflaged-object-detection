@@ -335,7 +335,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 |  |  |  |  |  |  |  |  |  |
 [MoCA-Mask](https://xueliancheng.github.io/SLT-Net-project/) | 2022 | CVPR | [Paper](https://arxiv.org/abs/2203.07363) | Video | 4,691 | &check; | &check; | &cross; | <!--87 clips, 22,939 images-->
 [MoCA](https://www.robots.ox.ac.uk/~vgg/data/MoCA/) | 2020 | ACCV | [Paper](https://openaccess.thecvf.com/content/ACCV2020/html/Lamdouar_Betrayed_by_Motion_Camouflaged_Object_Discovery_via_Motion_Segmentation_ACCV_2020_paper.html) | Video | 7,617 | &check; | &cross; | &cross; | <!--141 clips, 37K images-->
-[CamouflagedAnimals](http://vis-www.cs.umass.edu/motionSegmentation/) | 2016 | ECCV | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/) | Video | 181 | &cross; | &check; | &check; |  <!--9 clips, 839 images-->  
+[CamoAnimals](http://vis-www.cs.umass.edu/motionSegmentation/) | 2016 | ECCV | [Paper](http://vis-www.cs.umass.edu/motionSegmentation/) | Video | 181 | &cross; | &check; | &check; |  <!--9 clips, 839 images-->  
 
 
 
