@@ -38,8 +38,6 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 
 
 
-## COD 
-
 <!--Transformer for COD:
   1) [COD] Boosting COD with Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer, ICPR
   2) [COD] High-resolution Iterative Feedback Network for Camouflaged Object Detection, arXiv
@@ -70,6 +68,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 
 
 
+## COD 
 
 ### Review 
 
@@ -115,6 +114,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 | TPAMI<br><sup>2024</sup> | <sup>`CamoFormer`</sup> | CamoFormer: Masked Separable Attention for Camouflaged Object Detection   <br> <sup><sub>*Bowen Yin; Xuying Zhang; Deng-Ping Fan; Shaohui Jiao; Ming-Ming Cheng; Luc Van Gool; Qibin Hou*</sub></sup> | [Offl.](https://ieeexplore.ieee.org/document/10623294)\|[arXiv](https://arxiv.org/abs/2212.06570)\|<br>[Code](https://github.com/HVision-NKU/CamoFormer) 
 | TIP<br><sup>2024</sup> |  <sup>`IdeNet`</sup> | IdeNet: Making Neural Network Identify Camouflaged Objects Like Creatures  <br> <sup><sub>*Juwei Guan; Xiaolin Fang; Tongxin Zhu; Zhipeng Cai; Zhen Ling; Ming Yang; Junzhou Luo*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10661228)\|[Code](https://github.com/whyandbecause/IdeNet) 
 | IJCV<br><sup>2024</sup> |  <sup>`GateNetv2`</sup> | Towards Diverse Binary Segmentation via A Simple yet General Gated Network   <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.10396)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)\|<br>[Res.](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) 
+| TNNLS<br><sup>2024</sup> | <sup>`GLCONet`</sup> | GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection   <br> <sup><sub>*Yanguang Sun, Hanyu Xuan, Jian Yang, Lei Luo*</sub></sup>  | [Paper](https://arxiv.org/abs/2409.09588)\|[Code](https://github.com/CSYSI/GLCONet)
 | TMM<br><sup>2024</sup> | <sup>`DINet`</sup> | Decoupling and Integration Network for Camouflaged Object Detection  <br> <sup><sub>*Xiaofei Zhou; Zhicong Wu; Runmin Cong*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10417767)\|Code 
 | PR<br><sup>2024</sup> | <sup>`DSNet`</sup> | Camouflaged Object Detection via Dual-branch Fusion and Dual Self-similarity constraints     <br> <sup><sub>*Haozhe Yang, Yuan Zhu, Ke Sun, Haoyang Ding, Xianming Lin*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324006460)\|Code
 | KBS<br><sup>2024</sup> | <sup>`SDRNet`</sup>  | SDRNet: Camouflaged object detection with independent reconstruction of structure and detail   <br> <sup><sub>*Juwei Guan, Xiaolin Fang, Tongxin Zhu, Weiqi Qian*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124006853)\|[Code](https://github.com/whyandbecause/SDRNet/)
