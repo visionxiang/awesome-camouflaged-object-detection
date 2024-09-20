@@ -30,7 +30,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 - [Zero-Shot COD](#Zero-Shot-COD)
 - [Referring COD](#RefCOD)
 - [Open-Vocabulary COS](#OVCOS)
-- [RGB-P COS](#RGBPCOS)
+- [RGB-P COS](#RGBP-COS)
 - [Other Related](#Other-Related)
 - [Datasets](#Datasets)
 - [Appendix](#Appendix)
