@@ -30,6 +30,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 - [Zero-Shot COD](#Zero-Shot-COD)
 - [Referring COD](#RefCOD)
 - [Open-Vocabulary COS](#OVCOS)
+- [RGB-P COS](#RGBPCOS)
 - [Other Related](#Other-Related)
 - [Datasets](#Datasets)
 - [Appendix](#Appendix)
@@ -318,6 +319,15 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 | 2024  | ECCV | <small><sup>`OVCoser`</sup></small> | Open-Vocabulary Camouflaged Object Segmentation    <sub>![Static Badge](https://img.shields.io/badge/OVCamo-grey)</sub>    <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>   | [Paper](https://arxiv.org/abs/2311.11241)\|[Code](https://github.com/lartpang/OVCamo)
 | 2023  | arXiv | <small><sup>`-`</sup></small> | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation  <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)\|Code 
 
+
+
+
+## RGBP COS
+
+| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2024 | EAAI | <small><sup>`IPNet`</sup></small> | IPNet: Polarization-based Camouflaged Object Detection via dual-flow network   <sub>![Static Badge](https://img.shields.io/badge/PCOD_1200-grey)</sub>   <br> <sup><sub>*Xin Wang, Jiajia Ding, Zhao Zhang, Junfeng Xu, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014872)\|[Code](https://github.com/CVhfut/PCOD_1200) 
+| 2023 | PRL | <small><sup>`PolarNet`</sup></small> | Polarization-based Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/PCOD-grey)</sub>  <br> <sup><sub>*Xin Wang, Zhao Zhang, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523002532)\|[Code](https://github.com/CVhfut/Polar-COD)
 
 
 
