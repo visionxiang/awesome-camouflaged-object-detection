@@ -319,6 +319,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2024 | ICME | <sup>`RPMA`</sup> | Reference Prompted Model Adaptation for Referring Camouflaged Object Detection   <br> <sup><sub>*Xuewei Liu; Shaofei Huang; Ruipu Wu; Hengyuan Zhao; Duo Xu; Xiaoming Wei*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10687557)\|Code
 | 2023  | arXiv | <sup>`MLKG`</sup> | Large Model Based Referring Camouflaged Object Detection   <br> <sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.17122)\|Code
 | 2023  | arXiv | <sup>`R2CNet`</sup> | Referring Camouflaged Object Detection   <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub>       <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup>   | [Paper](https://arxiv.org/abs/2306.07532)\|[Code]([https://github.com/ChunmingHe/WS-SAM](https://github.com/zhangxuying1004/RefCOD))
 
