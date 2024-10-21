@@ -41,10 +41,6 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 
 <!--Transformer for COD:
   1) [COD] Boosting COD with Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer, ICPR
-  2) [COD] High-resolution Iterative Feedback Network for Camouflaged Object Detection, arXiv
-  3) [COD] Uncertainty-Guided Transformer Reasoning for Camouflaged Object Detection, ICCV21
-  4) [CIS] OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers, ECCV22
-  5) [COD] Generative Transformer for Accurate and Reliable Salient Object Detection, arXiv
 -->
 
 
@@ -55,7 +51,6 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
-| arXiv | <sup>`HGINet`</sup> | Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection     <br> <sup><sub>*Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.15020)\|[Code](https://github.com/Garyson1204/HGINet)
 | arXiv | <sup>`AGLNet`</sup> | Adaptive Guidance Learning for Camouflaged Object Detection      <br> <sup><sub>*Zhennan Chen, Xuying Zhang, Tian-Zhu Xiang, Ying Tai*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.02824)\|[Code](https://github.com/ZNan-Chen/AGLNet)
 | arXiv | <sup>`-`</sup> | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation   <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)\|Code 
 | arXiv | <sup>`PAD`</sup> | Pre-train, Adapt and Detect: Multi-Task Adapter Tuning for Camouflaged Object Detection    <br> <sup><sub>*Yinghui Xing, Dexuan Kong, Shizhou Zhang, Geng Chen, Lingyan Ran, Peng Wang, Yanning Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2307.10685)\|Code
@@ -116,6 +111,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 | WACV<br><sup>2024</sup> |  <sup>`CamoFocus`</sup>   | CamoFocus: Enhancing Camouflage Object Detection With Split-Feature Focal Modulation and Context Refinement   <br> <sup><sub>*Abbas Khan, Mustaqeem Khan, Wail Gueaieb, Abdulmotaleb El Saddik, Giulia De Masi, Fakhri Karray*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Khan_CamoFocus_Enhancing_Camouflage_Object_Detection_With_Split-Feature_Focal_Modulation_and_WACV_2024_paper.html)\|Code 
 | --  | -- | -- | -- | 
 | TPAMI<br><sup>2024</sup> | <sup>`CamoFormer`</sup> | CamoFormer: Masked Separable Attention for Camouflaged Object Detection   <br> <sup><sub>*Bowen Yin; Xuying Zhang; Deng-Ping Fan; Shaohui Jiao; Ming-Ming Cheng; Luc Van Gool; Qibin Hou*</sub></sup> | [Offl.](https://ieeexplore.ieee.org/document/10623294)\|[arXiv](https://arxiv.org/abs/2212.06570)\|<br>[Code](https://github.com/HVision-NKU/CamoFormer) 
+| TIP | <sup>`HGINet`</sup> | Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection     <br> <sup><sub>*Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.15020)\|[Code](https://github.com/Garyson1204/HGINet)
 | TIP<br><sup>2024</sup> |  <sup>`IdeNet`</sup> | IdeNet: Making Neural Network Identify Camouflaged Objects Like Creatures  <br> <sup><sub>*Juwei Guan; Xiaolin Fang; Tongxin Zhu; Zhipeng Cai; Zhen Ling; Ming Yang; Junzhou Luo*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10661228)\|[Code](https://github.com/whyandbecause/IdeNet) 
 | IJCV<br><sup>2024</sup> |  <sup>`GateNetv2`</sup> | Towards Diverse Binary Segmentation via A Simple yet General Gated Network   <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.10396)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)\|<br>[Res.](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) 
 | TNNLS<br><sup>2024</sup> | <sup>`GLCONet`</sup> | GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection   <br> <sup><sub>*Yanguang Sun, Hanyu Xuan, Jian Yang, Lei Luo*</sub></sup>  | [Paper](https://arxiv.org/abs/2409.09588)\|[Code](https://github.com/CSYSI/GLCONet)
