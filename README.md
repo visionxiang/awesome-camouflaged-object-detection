@@ -45,10 +45,41 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 -->
 
 
+## Highlight
+
+- **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation** `ProMaC` <br> 
+  Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong <br> 
+  *NeurIPS*, 2024 
+  <sub>![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto&link=https://arxiv.org/abs/2408.15205)</sub>
+  <sub>![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto&link=https://github.com/lwpyh/ProMaC_code)</sub>
+
+- **ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection** `ZoomNeXt` <br> 
+  Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu <br>
+  *TPAMI*, 2024
+  <sub>![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto&link=https://arxiv.org/abs/2310.20208)</sub>
+  <sub>![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto&link=https://github.com/lartpang/ZoomNeXt)</sub>
+
+- **CamoFormer: Masked Separable Attention for Camouflaged Object Detection** `CamoFormer` <br>
+  Bowen Yin; Xuying Zhang; Deng-Ping Fan; Shaohui Jiao; Ming-Ming Cheng; Luc Van Gool; Qibin Hou <br>
+  *TPAMI*, 2024
+  <sub>![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto&link=https://arxiv.org/abs/2212.06570)</sub>
+  <sub>![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto&link=https://github.com/HVision-NKU/CamoFormer)</sub>
+
+- **Spider: A Unified Framework for Context-dependent Concept Understanding** `Spider` <br>
+  Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu <br>
+  *ICML*, 2024
+  <sub>![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto&link=https://arxiv.org/abs/2405.01002)</sub>
+  <sub>![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto&link=https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg)</sub>
+  
+- **Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection** `HGINet` <br>
+  Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao <br>
+  *TIP*, 2024
+  <sub>![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto&link=https://arxiv.org/abs/2408.15020)</sub>
+  <sub>![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto&link=https://github.com/Garyson1204/HGINet)</sub>
 
 
 
-### Preprint
+## Preprint
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
