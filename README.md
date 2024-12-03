@@ -23,6 +23,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 
 ## Content:
 <!-- - [Overview](#Overview) -->
+- [Preprint](#Preprint)
 - [Camouflaged Object Detection (COD)](#COD)
 - [Video Camouflaged Object Detection (VCOD)](#VCOD)
 - [Camouflaged Instance Segmentation (CIS)](#CIS)
