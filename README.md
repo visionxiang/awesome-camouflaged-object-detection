@@ -46,6 +46,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 
 
 ## Highlight
+<!--:triangular_flag_on_post:-->
 
 - **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation** `ProMaC` <br> 
   Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong <br> 
