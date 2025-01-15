@@ -45,7 +45,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 -->
 
 
-## Highlight
+## :triangular_flag_on_post: Highlight :triangular_flag_on_post:
 <!--:triangular_flag_on_post:-->
 
 - **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation** `ProMaC` <br> 
