@@ -48,11 +48,11 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 ## :triangular_flag_on_post: Highlight :triangular_flag_on_post:
 <!--:triangular_flag_on_post:-->
 
-- **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation** `ProMaC` <br> 
-  Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong <br> 
-  *NeurIPS*, 2024 
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2408.15205)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/lwpyh/ProMaC_code)</sub>
+- **Referring Camouflaged Object Detection** `R2CNet` <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub> <br>
+  Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng <br>
+  *TPAMI*, 2025
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2306.07532)</sub>
+  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/zhangxuying1004/RefCOD)</sub>
 
 - **ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection** `ZoomNeXt` <br> 
   Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu <br>
@@ -60,11 +60,11 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2310.20208)</sub>
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/lartpang/ZoomNeXt)</sub>
 
-- **CamoFormer: Masked Separable Attention for Camouflaged Object Detection** `CamoFormer` <br>
-  Bowen Yin; Xuying Zhang; Deng-Ping Fan; Shaohui Jiao; Ming-Ming Cheng; Luc Van Gool; Qibin Hou <br>
-  *TPAMI*, 2024
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2212.06570)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/HVision-NKU/CamoFormer)</sub>
+- **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation** `ProMaC` <br> 
+  Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong <br> 
+  *NeurIPS*, 2024 
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2408.15205)</sub>
+  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/lwpyh/ProMaC_code)</sub>
 
 - **Spider: A Unified Framework for Context-dependent Concept Understanding** `Spider` <br>
   Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu <br>
@@ -77,6 +77,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
   *TIP*, 2024
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2408.15020)</sub>
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/Garyson1204/HGINet)</sub>
+
 
 
 
