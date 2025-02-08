@@ -85,6 +85,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
+| arXiv | <sup>`HPGT`</sup> | A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection      <br> <sup><sub>*Tsui Qin Mok, Shuyong Gao, Haozhe Xing, Miaoyang He, Yan Wang, Wenqiang Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.06038)\|Code
 | arXiv | <sup>`CaMF`</sup> | Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations      <br> <sup><sub>*Cheng Lei, Jie Fan, Xinran Li, Tianzhu Xiang, Ao Li, Ce Zhu, Le Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2410.16953)\|[Code](https://github.com/R-LEI360725/ZSCOS-CaMF)
 | arXiv | <sup>`AGLNet`</sup> | Adaptive Guidance Learning for Camouflaged Object Detection      <br> <sup><sub>*Zhennan Chen, Xuying Zhang, Tian-Zhu Xiang, Ying Tai*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.02824)\|[Code](https://github.com/ZNan-Chen/AGLNet)
 | arXiv | <sup>`-`</sup> | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation   <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)\|Code 
