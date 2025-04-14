@@ -102,7 +102,7 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
-| AAAI<br><sup>2025</sup> | <sup>`FOCUS`</sup>  | FOCUS: Towards Universal Foreground Segmentation   <br> <sup><sub>*Zuyao You, Lingyu Kong, Lingchen Meng, Zuxuan Wu*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.05238) \| [Code](https://geshang777.github.io/focus.github.io/)  
+| AAAI<br><sup>2025</sup> | <sup>`FOCUS`</sup>  | FOCUS: Towards Universal Foreground Segmentation   <br> <sup><sub>*Zuyao You, Lingyu Kong, Lingchen Meng, Zuxuan Wu*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.05238)\| [Code](https://geshang777.github.io/focus.github.io/)  
 | ICML<br><sup>2024</sup> |  <sup>`Spider`</sup>  | Spider: A Unified Framework for Context-dependent Concept Understanding    <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.01002)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg)  
 | IJCV<br><sup>2024</sup> |  <sup>`GateNetv2`</sup> | Towards Diverse Binary Segmentation via A Simple yet General Gated Network   <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.10396)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)\|<br>[Res.](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) 
 
