@@ -1,7 +1,7 @@
 
 # Awesome Camouflaged Object Detection <a href="https://github.com/sindresorhus/awesome"><img src="figs/awesome.png" alt="Awesome" style="max-width: 100%;" width="100"></a>
 
-A curated collection of awesome resources for **Camouflaged Object Detection (COD)**, including: 
+A curated collection of awesome resources for **Camouflaged Vision**, including: 
 - Camouflaged/Concealed Object Detection (COD)  
 - Camouflaged/Concealed Object Segmentation (COS)  
 - Camouflaged/Concealed Scene Understanding (CSU)
@@ -24,6 +24,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 ## Content:
 <!-- - [Overview](#Overview) -->
 - [Preprint](#Preprint)
+- [Universal Segmentation](#Universal-Segmentation)
 - [Camouflaged Object Detection (COD)](#COD)
 - [Video Camouflaged Object Detection (VCOD)](#VCOD)
 - [Camouflaged Instance Segmentation (CIS)](#CIS)
@@ -97,6 +98,14 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 | arXiv |  <sup>`BASNet`</sup>  | Boundary-Aware Segmentation Network for Mobile and Web Applications <br> <sup><sub>*Xuebin Qin, Deng-Ping Fan, Chenyang Huang, et al.*</sub></sup> | [Paper](https://arxiv.org/pdf/2101.04704.pdf)\|[Code](https://github.com/xuebinqin/BASNet) 
 
 
+## Universal Segmentation
+
+| **Year** | **Pub.** | **Title**          | **Links**        |
+| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
+| AAAI<br><sup>2025</sup> | <sup>`FOCUS`</sup>  | FOCUS: Towards Universal Foreground Segmentation   <br> <sup><sub>*Zuyao You, Lingyu Kong, Lingchen Meng, Zuxuan Wu*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.05238) \| [Code](https://geshang777.github.io/focus.github.io/)  
+| ICML<br><sup>2024</sup> |  <sup>`Spider`</sup>  | Spider: A Unified Framework for Context-dependent Concept Understanding    <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.01002)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg)  
+| IJCV<br><sup>2024</sup> |  <sup>`GateNetv2`</sup> | Towards Diverse Binary Segmentation via A Simple yet General Gated Network   <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.10396)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)\|<br>[Res.](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) 
+
 
 ## COD 
 
@@ -144,8 +153,7 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 | MM<br><sup>2024</sup> | <sup>`MMCPF`</sup> | Chain of Visual Perception: Harnessing Multimodal Large Language Models for Zero-shot Camouflaged Object Detection  `ZS COD`   <br> <sup><sub>*Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.11273)\|[Code](https://github.com/luckybird1994/MMCPF)  
 | MM<br><sup>2024</sup> | <sup>`TPNet`</sup> | Text-prompt Camouflaged Instance Segmentation with Graduated Camouflage Learning  <br> <sup><sub>*Zhentao He, Changqun Xia, Shengye Qiao, Jia Li*</sub></sup>  | Paper\|Code
 | MM<br><sup>2024</sup> | <sup>`MiNet`</sup> | MiNet: Weakly-Supervised Camouflaged Object Detection through Mutual Interaction between Region and Edge Cues   <br> <sup><sub>*Yuzhen Niu, Lifen Yang, Rui Xu, Yuezhou Li, Yuzhong Chen*</sub></sup>  | [Paper](https://dl.acm.org/doi/10.1145/3664647.3680891)\|Code
-| MM<br><sup>2024</sup> | <sup>`-`</sup> | Semi-supervised Camouflaged Object Detection from Noisy Data   <br> <sup><sub>*Yuanbin Fu, Jie Ying, Houlei Lv, Xiaojie Guo*</sub></sup>  | [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680645)\|Code
-| ICML<br><sup>2024</sup> |  <sup>`Spider`</sup>  | Spider: A Unified Framework for Context-dependent Concept Understanding    <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.01002)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg) 
+| MM<br><sup>2024</sup> | <sup>`-`</sup> | Semi-supervised Camouflaged Object Detection from Noisy Data   <br> <sup><sub>*Yuanbin Fu, Jie Ying, Houlei Lv, Xiaojie Guo*</sub></sup>  | [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680645)\|Code 
 | CVPR<br><sup>2024</sup> |  <sup>`LAKE-RED`</sup>  | LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion `Gen`   <br> <sup><sub>*Pancheng Zhao, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang*</sub></sup>  | [Paper](https://arxiv.org/abs/2404.00292)\|[Code](https://github.com/PanchengZhao/LAKE-RED)
 | CVPR<br><sup>2024</sup> |  <sup>`VSCode`</sup>  | VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning   <br> <sup><sub>*Ziyang Luo, Nian Liu, Wangbo Zhao, Xuguang Yang, Dingwen Zhang, Deng-Ping Fan, Fahad Khan, Junwei Han*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.15011)\|[Code](https://github.com/Sssssuperior/VSCode) 
 | CVPR<br><sup>2024</sup> | <sup>`RISNet`</sup> | Depth-Aware Concealed Crop Detection in Dense Agricultural Scenes   <sub>![Static Badge](https://img.shields.io/badge/ACOD--12K-grey)</sub>    <br> <sup><sub>*Liqiong Wang, Jinyu Yang, Yanfu Zhang, Fangyi Wang, Feng Zheng*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Depth-Aware_Concealed_Crop_Detection_in_Dense_Agricultural_Scenes_CVPR_2024_paper.html)\|[Code](https://github.com/Kki2Eve/RISNet) 
@@ -158,7 +166,6 @@ A curated collection of awesome resources for **Camouflaged Object Detection (CO
 | TPAMI<br><sup>2024</sup> | <sup>`CamoFormer`</sup> | CamoFormer: Masked Separable Attention for Camouflaged Object Detection   <br> <sup><sub>*Bowen Yin; Xuying Zhang; Deng-Ping Fan; Shaohui Jiao; Ming-Ming Cheng; Luc Van Gool; Qibin Hou*</sub></sup> | [Offl.](https://ieeexplore.ieee.org/document/10623294)\|[arXiv](https://arxiv.org/abs/2212.06570)\|<br>[Code](https://github.com/HVision-NKU/CamoFormer) 
 | TIP<br><sup>2024</sup> | <sup>`HGINet`</sup> | Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection     <br> <sup><sub>*Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao*</sub></sup>  | [Offl.](https://ieeexplore.ieee.org/document/10719619)\|[arXiv](https://arxiv.org/abs/2408.15020)\|<br>[Code](https://github.com/Garyson1204/HGINet)
 | TIP<br><sup>2024</sup> |  <sup>`IdeNet`</sup> | IdeNet: Making Neural Network Identify Camouflaged Objects Like Creatures  <br> <sup><sub>*Juwei Guan; Xiaolin Fang; Tongxin Zhu; Zhipeng Cai; Zhen Ling; Ming Yang; Junzhou Luo*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10661228)\|[Code](https://github.com/whyandbecause/IdeNet) 
-| IJCV<br><sup>2024</sup> |  <sup>`GateNetv2`</sup> | Towards Diverse Binary Segmentation via A Simple yet General Gated Network   <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.10396)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)\|<br>[Res.](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) 
 | TNNLS<br><sup>2024</sup> | <sup>`GLCONet`</sup> | GLCONet: Learning Multi-source Perception Representation for Camouflaged Object Detection   <br> <sup><sub>*Yanguang Sun, Hanyu Xuan, Jian Yang, Lei Luo*</sub></sup>  | [Paper](https://arxiv.org/abs/2409.09588)\|[Code](https://github.com/CSYSI/GLCONet)
 | TMM<br><sup>2024</sup> | <sup>`DINet`</sup> | Decoupling and Integration Network for Camouflaged Object Detection  <br> <sup><sub>*Xiaofei Zhou; Zhicong Wu; Runmin Cong*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10417767)\|Code 
 | TMM<br><sup>2024</sup> | <sup>`FGSA-Net`</sup> |    Frequency-Guided Spatial Adaptation for Camouflaged Object Detection     <br> <sup><sub>*Shizhou Zhang, Dexuan Kong, Yinghui Xing, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2409.12421)\|Code
