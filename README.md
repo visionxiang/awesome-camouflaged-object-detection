@@ -24,6 +24,7 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 ## Content:
 <!-- - [Overview](#Overview) -->
 - [Preprint](#Preprint)
+- [Review](#Review)
 - [Universal Segmentation](#Universal-Segmentation)
 - [Camouflaged Object Detection (COD)](#COD)
 - [Video Camouflaged Object Detection (VCOD)](#VCOD)
@@ -98,6 +99,18 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | arXiv |  <sup>`BASNet`</sup>  | Boundary-Aware Segmentation Network for Mobile and Web Applications <br> <sup><sub>*Xuebin Qin, Deng-Ping Fan, Chenyang Huang, et al.*</sub></sup> | [Paper](https://arxiv.org/pdf/2101.04704.pdf)\|[Code](https://github.com/xuebinqin/BASNet) 
 
 
+## Review 
+
+| **Year** | **Pub.** | **Title**          | **Links**        |
+| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
+| 2024 | AIR | A Survey of Camouflaged Object Detection and Beyond    <br> <sup><sub>*Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.14562v1)\|[Res](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) 
+| 2024 | Neucom | A systematic review of image-level camouflaged object detection with deep learning  <br> <sup><sub>*Yanhua Liang, Guihe Qin, Minghui Sun, Xinchao Wang, Jie Yan, Zhonghan Zhang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011736)\|[Res.](https://github.com/Liangyh18/COD_survey)
+| 2024 | MulSys | A survey on deep learning-based camouflaged object detection  <br> <sup><sub>*Junmin Zhong, Anzhi Wang, Chunhong Ren & Jintao Wu*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s00530-024-01478-7)\|
+| 2023 | VI | Advances in Deep Concealed Scene Understanding   <sub>![Static Badge](https://img.shields.io/badge/CDS2K-grey)</sub>  <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6#article-info)\|[Proj](https://github.com/DengPingFan/CSU)  
+| 2021 |  TCSVT  | Rethinking Camouflaged Object Detection: Models and Datasets   <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup>   | [Paper](https://ieeexplore.ieee.org/document/9598866)\|
+
+
+
 ## Universal Segmentation
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
@@ -108,17 +121,6 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 
 
 ## COD 
-
-### Review 
-
-| **Year** | **Pub.** | **Title**          | **Links**        |
-| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
-| 2024 | AIR | A Survey of Camouflaged Object Detection and Beyond    <br> <sup><sub>*Fengyang Xiao, Sujie Hu, Yuqi Shen, Chengyu Fang, Jinfa Huang, Chunming He, Longxiang Tang, Ziyun Yang, Xiu Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.14562v1)\|[Res](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) 
-| 2024 | Neucom | A systematic review of image-level camouflaged object detection with deep learning  <br> <sup><sub>*Yanhua Liang, Guihe Qin, Minghui Sun, Xinchao Wang, Jie Yan, Zhonghan Zhang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011736)\|[Res.](https://github.com/Liangyh18/COD_survey)
-| 2024 | MulSys | A survey on deep learning-based camouflaged object detection  <br> <sup><sub>*Junmin Zhong, Anzhi Wang, Chunhong Ren & Jintao Wu*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s00530-024-01478-7)\|
-| 2023 | VI | Advances in Deep Concealed Scene Understanding   <sub>![Static Badge](https://img.shields.io/badge/CDS2K-grey)</sub>  <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6#article-info)\|[Proj](https://github.com/DengPingFan/CSU)  
-| 2021 |  TCSVT  | Rethinking Camouflaged Object Detection: Models and Datasets   <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup>   | [Paper](https://ieeexplore.ieee.org/document/9598866)\|
-
 
 ### 2025 
 
