@@ -8,6 +8,7 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
   
 🔥 We commit to maintaining regular updates to ensure the continuous enhancement of this resource.
 
+:loudspeaker: [06/2025] Update CVPR2025, AAAI2025 papers. 
 :loudspeaker: [08/2024] Update ECCV2024, MM2024 papers.  
 :loudspeaker: [04/2024] Update CVPR2024 papers.  
 :loudspeaker: [01/2024] Update ICLR2024, WACV2024 papers.   
@@ -31,10 +32,12 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 - [Camouflaged Instance Segmentation (CIS)](#CIS)
 - [Weakly-supervised COD](#WSCOD)
 - [Semi-supervised COD](#Semi-supervised-COD)
+- [Unsupervised COD](#Unsupervised-COD)
 - [Zero-Shot COD](#Zero-Shot-COD)
 - [Referring COD](#RefCOD)
 - [Open-Vocabulary COS](#OVCOS)
 - [RGB-P COS](#RGBP-COS)
+- [Camouflaged Generation](#Camouflaged-Generation )
 - [Other Related](#Other-Related)
 - [Datasets](#Datasets)
 - [Appendix](#Appendix)
@@ -138,6 +141,7 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | ICML | <sup>`RUN`</sup>  | RUN: Reversible Unfolding Network for Concealed Object Segmentation  <br> <sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Chengyu Fang, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.18783)\|[Code](https://github.com/ChunmingHe/RUN)
 | WACV<br><sup>2025</sup> | <sup>`CamoFA`</sup> |  CamoFA: A Learnable Fourier-Based Augmentation for Camouflage Segmentation   <br> <sup><sub>*Minh-Quan Le; Minh-Triet Tran; Trung-Nghia Le; Tam V. Nguyen; Thanh-Toan Do*</sub></sup> | [Paper](https://arxiv.org/abs/2308.15660)\|Code
 | WACV<br><sup>2025</sup> | <sup>`HDPNet`</sup> | HDPNet: Hourglass Vision Transformer with Dual-Path Feature Pyramid for Camouflaged Object Detection   <br> <sup><sub>*Jinpeng He; Biyuan Liu; Huaixin Chen*</sub></sup> | [Paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i645/25KmxC36lWw)\|[Code](https://github.com/LittleGrey-hjp/HDPNet)
+| AAAI<br><sup>2025</sup> | <sup>`MM-CamObj`</sup> | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios  <br> <sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723)\|[Code](https://github.com/JCruan519/MM-CamObj)
 | --  | -- | -- | -- | 
 | TPAMI<br><sup>2025</sup> | <sup>`CamoDiffusion`</sup> | Conditional Diffusion Models for Camouflaged and Salient Object Detection  <br> <sup><sub>*Ke Sun; Zhongxi Chen; Xianming Lin; Xiaoshuai Sun; Hong Liu; Rongrong Ji*</sub></sup>  <sup><sub>*AAAI2024 Extension*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10834569)\|[Code](https://github.com/Rapisurazurite/CamoDiffusion)
 | IJCV<br><sup>2025</sup> | <sup>`AdaptCOD`</sup> | Camouflaged Object Detection with Adaptive Partition and Background Retrieval    <br> <sup><sub>*Bowen Yin, Xuying Zhang, Li Liu, Ming-Ming Cheng, Yongxiang Liu & Qibin Hou*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s11263-025-02406-6)\|[Code](https://github.com/HVision-NKU/AdaptCOD)
@@ -185,6 +189,7 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | AAAI<br><sup>2024</sup> | <sup>`Camo`<br>`Diffusion`</sup> | CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models   <br> <sup><sub>*Chen, Zhongxi and Sun, Ke and Lin, Xianming and Ji, Rongrong*</sub></sup>  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27890)\|[Code](https://github.com/Rapisurazurite/CamoDiffusion) 
 | AAAI<br><sup>2024</sup> |  <sup>`GenSAM`</sup>  | Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects   <br> <sup><sub>*Jian Hu, Jiayi Lin, Weitong Cai, Shaogang Gong*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.07374)\|[Proj](https://lwpyh.github.io/GenSAM/)\|<br>[Code](https://github.com/jyLin8100/GenSAM) 
 | WACV<br><sup>2024</sup> |  <sup>`CamoFocus`</sup>   | CamoFocus: Enhancing Camouflage Object Detection With Split-Feature Focal Modulation and Context Refinement   <br> <sup><sub>*Abbas Khan, Mustaqeem Khan, Wail Gueaieb, Abdulmotaleb El Saddik, Giulia De Masi, Fakhri Karray*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Khan_CamoFocus_Enhancing_Camouflage_Object_Detection_With_Split-Feature_Focal_Modulation_and_WACV_2024_paper.html)\|Code 
+| BMVC<br><sup>2024</sup> |  <sup>`ENTO`</sup>   | A Revisit to the Decoder for Camouflaged Object Detection    <br> <sup><sub>*Seung Woo Ko, Joopyo Hong, Suyoung Kim, Seungjai Bang, Sungzoon Cho, Nojun Kwak, Hyung-Sin Kim, Joonseok Lee*</sub></sup>  | [Paper](https://arxiv.org/abs/2503.14035)\|Code
 | --  | -- | -- | -- | 
 | TPAMI<br><sup>2024</sup> | <sup>`CamoFormer`</sup> | CamoFormer: Masked Separable Attention for Camouflaged Object Detection   <br> <sup><sub>*Bowen Yin; Xuying Zhang; Deng-Ping Fan; Shaohui Jiao; Ming-Ming Cheng; Luc Van Gool; Qibin Hou*</sub></sup> | [Offl.](https://ieeexplore.ieee.org/document/10623294)\|[arXiv](https://arxiv.org/abs/2212.06570)\|<br>[Code](https://github.com/HVision-NKU/CamoFormer) 
 | TIP<br><sup>2024</sup> | <sup>`HGINet`</sup> | Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection     <br> <sup><sub>*Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao*</sub></sup>  | [Offl.](https://ieeexplore.ieee.org/document/10719619)\|[arXiv](https://arxiv.org/abs/2408.15020)\|<br>[Code](https://github.com/Garyson1204/HGINet)
@@ -387,9 +392,21 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
+| 2025 | PAMI | <sup>`SEE`</sup>  | Segment Concealed Objects with Incomplete Supervision   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu*</sub></sup>  | [Paper](https://arxiv.org/abs/2506.08955)\|[Code](https://github.com/ChunmingHe/SEE) 
 | 2025 | ICASSP | <sup>`SILNet`</sup> | Semi-supervised Iterative Learning Network for Camouflaged Object Detection   <br> <sup><sub>*Guowen Yue; Ge Jiao; Jiahao Xiang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/10890224)\|Code
 | 2024 | MM | <sup>`-`</sup> | Semi-supervised Camouflaged Object Detection from Noisy Data `SS COD`  <br> <sup><sub>*Yuanbin Fu, Jie Ying, Houlei Lv, Xiaojie Guo*</sub></sup>  | [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680645)\|Code 
 | 2024 | ECCV | <sup>`CamoTeacher`</sup> | CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection   `WSS COD`  <br> <sup><sub>*Xunfa Lai, Zhiyu Yang, Jie Hu, Shengchuan Zhang, Liujuan Cao, Guannan Jiang, Zhiyu Wang, Songan Zhang, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.08050)\|Code
+
+
+
+
+## Unsupervised COD
+
+| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
+| 2025 | CVPR | <sup>`UCOD-DPL`</sup> | UCOD-DPL: Unsupervised Camouflaged Object Detection via Dynamic Pseudo-label Learning   <br> <sup><sub>*Weiqi Yan, Lvhai Chen, Huaijia Kou, Shengchuan Zhang, Yan Zhang, Liujuan Cao*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yan_UCOD-DPL_Unsupervised_Camouflaged_Object_Detection_via_Dynamic_Pseudo-label_Learning_CVPR_2025_paper.html)\|[Code](https://github.com/Heartfirey/UCOD-DPL) 
+| 2025 | CVPR | <sup>`EASE`</sup> | Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection  <br> <sup><sub>*Ji Du, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html)\|[Code](https://github.com/xiaohainku/EASE) 
+
 
 
 
@@ -434,16 +451,29 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 
 
 
-## Other Related 
+## Camouflaged Generation 
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
-| 2024 | CVPR | <small><sup>`LAKE-RED`</sup></small> | LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion `Gen`   <br> <sup><sub>*Pancheng Zhao, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang*</sub></sup>  | [Paper](https://arxiv.org/abs/2404.00292)\|[Code](https://github.com/PanchengZhao/LAKE-RED) 
-| 2023 | AIR | <small><sup>`CamDiff`</sup></small> | CamDiff: Camouflage Image Augmentation via Diffusion Model  `Gen`  <br> <sup><sub>*Xue-Jing Luo, Shuo Wang, Zongwei Wu, Christos Sakaridis, Yun Cheng, Deng-Ping Fan, Luc Van Gool*</sub></sup> | [Paper](https://arxiv.org/abs/2304.05469)\|[Code](https://github.com/drlxj/CamDiff) 
-| 2022 | CVPR | <small><sup>`GANmouflage`</sup></small> | GANmouflage: 3D Object Nondetection with Texture Fields   `Gen`   <br> <sup><sub>*Rui Guo, Jasmine Collins, Oscar de Lima, Andrew Owens*</sub></sup>  | [Paper](https://arxiv.org/abs/2201.07202)\|[Proj](https://rrrrrguo.github.io/ganmouflage/)
+| 2025 | CVPR | <small><sup>`CO+RE-BG`</sup></small> | Camouflage Anything: Learning to Hide using Controlled Out-painting and Representation Engineering   <br> <sup><sub>*Biplab Das, Viswanath Gopalakrishnan*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Das_Camouflage_Anything_Learning_to_Hide_using_Controlled_Out-painting_and_Representation_CVPR_2025_paper.html)\|Code
+| 2024 | CVPR | <small><sup>`LAKE-RED`</sup></small> | LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion   <br> <sup><sub>*Pancheng Zhao, Peng Xu, Pengda Qin, Deng-Ping Fan, Zhicheng Zhang, Guoli Jia, Bowen Zhou, Jufeng Yang*</sub></sup>  | [Paper](https://arxiv.org/abs/2404.00292)\|[Code](https://github.com/PanchengZhao/LAKE-RED) 
+| 2023 | AIR | <small><sup>`CamDiff`</sup></small> | CamDiff: Camouflage Image Augmentation via Diffusion Model   <br> <sup><sub>*Xue-Jing Luo, Shuo Wang, Zongwei Wu, Christos Sakaridis, Yun Cheng, Deng-Ping Fan, Luc Van Gool*</sub></sup> | [Paper](https://arxiv.org/abs/2304.05469)\|[Code](https://github.com/drlxj/CamDiff) 
+| 2022 | CVPR | <small><sup>`GANmouflage`</sup></small> | GANmouflage: 3D Object Nondetection with Texture Fields   <br> <sup><sub>*Rui Guo, Jasmine Collins, Oscar de Lima, Andrew Owens*</sub></sup>  | [Paper](https://arxiv.org/abs/2201.07202)\|[Proj](https://rrrrrguo.github.io/ganmouflage/)
+| 2022 | TMM | <small><sup>`LCG-Net`</sup></small> | Location-Free Camouflage Generation Network  <br> <sup><sub>*Yangyang Li, Wei Zhai, Yang Cao, Zheng-jun Zha*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09845)\|[Code](https://github.com/Tale17/LCG-Net) 
+| 2020 | AAAI |   <small><sup>`-`</sup></small>   | Deep Camouflage Images        <br><sup><sub>*Qing Zhang, Gelin Yin, Yongwei Nie, Wei-Shi Zheng*</sub></sup>       | [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6981)\|[Code](https://github.com/hirokic5/Pytorch_CamouflageImages) |
+
+
+
+
+
+
+## Other Related 
+
+| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |  
 | 2022 | CVPR | <small><sup>`DTA`</sup></small> | DTA: Physical Camouflage Attacks using Differentiable Transformation Network     <br> <sup><sub>*Naufal Suryanto, Yongsu Kim, Hyoeun Kang, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09831)\|Code
-| 2022 | TMM | <small><sup>`LCG-Net`</sup></small> | Location-Free Camouflage Generation Network  `Gen`  <br> <sup><sub>*Yangyang Li, Wei Zhai, Yang Cao, Zheng-jun Zha*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09845)\|[Code](https://github.com/Tale17/LCG-Net) 
-| 2020 | AAAI |   <small><sup>`-`</sup></small>   | Deep Camouflage Images  `Gen`      <br><sup><sub>*Qing Zhang, Gelin Yin, Yongwei Nie, Wei-Shi Zheng*</sub></sup>       | [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6981)\|[Code](https://github.com/hirokic5/Pytorch_CamouflageImages) |
+
+
 
 
 
