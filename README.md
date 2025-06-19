@@ -8,7 +8,7 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
   
 🔥 We commit to maintaining regular updates to ensure the continuous enhancement of this resource.
 
-:loudspeaker: [06/2025] Update CVPR2025, AAAI2025 papers. 
+:loudspeaker: [06/2025] Update CVPR2025, AAAI2025 papers.    
 :loudspeaker: [08/2024] Update ECCV2024, MM2024 papers.  
 :loudspeaker: [04/2024] Update CVPR2024 papers.  
 :loudspeaker: [01/2024] Update ICLR2024, WACV2024 papers.   
