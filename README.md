@@ -92,8 +92,7 @@
 
 
 
-<details>
-<summary><h2>Preprint</h2></summary>
+## Preprint
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
@@ -116,11 +115,10 @@
 | arXiv |  <sup>`MCIFNet`</sup> | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion <br> <sup><sub>*Bo Dong, Mingchen Zhuge, Yongxiong Wang, Hongbo Bi, Geng Chen*</sub></sup> | [Paper](https://arxiv.org/pdf/2101.05687.pdf)\|[Code](https://github.com/BigHeartDB/MCIFNet)  
 | arXiv |  <sup>`BASNet`</sup>  | Boundary-Aware Segmentation Network for Mobile and Web Applications <br> <sup><sub>*Xuebin Qin, Deng-Ping Fan, Chenyang Huang, et al.*</sub></sup> | [Paper](https://arxiv.org/pdf/2101.04704.pdf)\|[Code](https://github.com/xuebinqin/BASNet) 
 
-</details>
 
 
-<details>
-<summary><h2>Survey Papers</h2></summary> 
+
+## Survey Papers
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -130,7 +128,6 @@
 | 2023 | VI | Advances in Deep Concealed Scene Understanding   <sub>![Static Badge](https://img.shields.io/badge/CDS2K-grey)</sub>  <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6#article-info)\|[Proj](https://github.com/DengPingFan/CSU)  
 | 2021 |  TCSVT  | Rethinking Camouflaged Object Detection: Models and Datasets   <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup>   | [Paper](https://ieeexplore.ieee.org/document/9598866)\|
 
-</details>
 
 
 <details>
