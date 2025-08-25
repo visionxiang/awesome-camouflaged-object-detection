@@ -19,6 +19,7 @@
 <details>
 <summary><strong>:loudspeaker: Latest Updates</strong></summary>
 
+- [06/2025] Update ICCV2025 papers.    
 - [06/2025] Update CVPR2025, AAAI2025 papers.    
 - [08/2024] Update ECCV2024, MM2024 papers.  
 - [04/2024] Update CVPR2024 papers.  
