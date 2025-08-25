@@ -1,20 +1,32 @@
 
-# Awesome Camouflaged Object Detection <a href="https://github.com/sindresorhus/awesome"><img src="figs/awesome.png" alt="Awesome" style="max-width: 100%;" width="100"></a>
+<div align="center">
+  <h1>Awesome Camouflage Vision</h1>
+  <p>A curated collection of papers and resources for the field of camouflaged vision</p>
+  <p>COD | COS | CSU | …… </p>
+  <p><a href="https://github.com/sindresorhus/awesome"><img src="figs/awesome.png" alt="Awesome" style="max-width: 100%;" width="100"></a> </p>
+</div>
 
-A curated collection of awesome resources for **Camouflaged Vision**, including: 
-- Camouflaged/Concealed Object Detection (COD)  
-- Camouflaged/Concealed Object Segmentation (COS)  
-- Camouflaged/Concealed Scene Understanding (CSU)
-  
-🔥 We commit to maintaining regular updates to ensure the continuous enhancement of this resource.
+<!-- # Awesome Camouflaged Object Detection <a href="https://github.com/sindresorhus/awesome"><img src="figs/awesome.png" alt="Awesome" style="max-width: 100%;" width="100"></a> -->
 
-:loudspeaker: [06/2025] Update CVPR2025, AAAI2025 papers.    
-:loudspeaker: [08/2024] Update ECCV2024, MM2024 papers.  
-:loudspeaker: [04/2024] Update CVPR2024 papers.  
-:loudspeaker: [01/2024] Update ICLR2024, WACV2024 papers.   
-:loudspeaker: [12/2023] Update NeurIPS2023, AAAI2024 papers.   
-:loudspeaker: [08/2023] Update ICCV2023, MM2023, etc. papers for COD and CIS.   
-:loudspeaker: [04/2023] Update CVPR2023 papers for COD and CIS.
+> This repository aims to provide the most comprehensive and cutting-edge map of papers and technologies in the field of **camouflage vision**, including
+> - Camouflaged/Concealed Object Detection (COD)  
+> - Camouflaged/Concealed Object Segmentation (COS)  
+> - Camouflaged/Concealed Scene Understanding (CSU)
+> - etc.
+> 
+> 🔥 We commit to maintaining regular updates to ensure the continuous enhancement of this resource.
+
+<details>
+<summary><strong>:loudspeaker: Latest Updates</strong></summary>
+
+- [06/2025] Update CVPR2025, AAAI2025 papers.    
+- [08/2024] Update ECCV2024, MM2024 papers.  
+- [04/2024] Update CVPR2024 papers.  
+- [01/2024] Update ICLR2024, WACV2024 papers.   
+- [12/2023] Update NeurIPS2023, AAAI2024 papers.   
+- [08/2023] Update ICCV2023, MM2023, etc. papers for COD and CIS.   
+- [04/2023] Update CVPR2023 papers for COD and CIS.
+</details>
 
 :heavy_exclamation_mark: <sub>![Static Badge](https://img.shields.io/badge/dataset-grey)</sub>
 
@@ -22,10 +34,10 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 
 <!--TOC-->
 
-## Content:
+## 📚 Table of Contents:
 <!-- - [Overview](#Overview) -->
 - [Preprint](#Preprint)
-- [Review](#Review)
+- [Survey Papers](#Survey-Papers)
 - [Universal Segmentation](#Universal-Segmentation)
 - [Camouflaged Object Detection (COD)](#COD)
 - [Video Camouflaged Object Detection (VCOD)](#VCOD)
@@ -37,7 +49,7 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 - [Referring COD](#RefCOD)
 - [Open-Vocabulary COS](#OVCOS)
 - [RGB-P COS](#RGBP-COS)
-- [Camouflaged Generation](#Camouflaged-Generation )
+- [Camouflage Generation](#Camouflage-Generation )
 - [Other Related](#Other-Related)
 - [Datasets](#Datasets)
 - [Appendix](#Appendix)
@@ -45,13 +57,7 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 --------------------------------------------------------------------------------------
 
 
-
-<!--Transformer for COD:
-  1) [COD] Boosting COD with Boosting Camouflaged Object Detection with Dual-Task Interactive Transformer, ICPR
--->
-
-
-## :triangular_flag_on_post: Highlight :triangular_flag_on_post:
+## :triangular_flag_on_post: Highlight:
 <!--:triangular_flag_on_post:-->
 
 - **Referring Camouflaged Object Detection** `R2CNet` <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub> <br>
@@ -86,8 +92,8 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 
 
 
-
-## Preprint
+<details>
+<summary><h2>Preprint</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
@@ -110,8 +116,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | arXiv |  <sup>`MCIFNet`</sup> | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion <br> <sup><sub>*Bo Dong, Mingchen Zhuge, Yongxiong Wang, Hongbo Bi, Geng Chen*</sub></sup> | [Paper](https://arxiv.org/pdf/2101.05687.pdf)\|[Code](https://github.com/BigHeartDB/MCIFNet)  
 | arXiv |  <sup>`BASNet`</sup>  | Boundary-Aware Segmentation Network for Mobile and Web Applications <br> <sup><sub>*Xuebin Qin, Deng-Ping Fan, Chenyang Huang, et al.*</sub></sup> | [Paper](https://arxiv.org/pdf/2101.04704.pdf)\|[Code](https://github.com/xuebinqin/BASNet) 
 
+</details>
 
-## Review 
+
+<details>
+<summary><h2>Survey Papers</h2></summary> 
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -121,9 +130,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2023 | VI | Advances in Deep Concealed Scene Understanding   <sub>![Static Badge](https://img.shields.io/badge/CDS2K-grey)</sub>  <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6#article-info)\|[Proj](https://github.com/DengPingFan/CSU)  
 | 2021 |  TCSVT  | Rethinking Camouflaged Object Detection: Models and Datasets   <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup>   | [Paper](https://ieeexplore.ieee.org/document/9598866)\|
 
+</details>
 
 
-## Universal Segmentation
+<details>
+<summary><h2>Universal Segmentation</h2></summary>
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -131,8 +142,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | ICML<br><sup>2024</sup> |  <sup>`Spider`</sup>  | Spider: A Unified Framework for Context-dependent Concept Understanding    <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.01002)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg)  
 | IJCV<br><sup>2024</sup> |  <sup>`GateNetv2`</sup> | Towards Diverse Binary Segmentation via A Simple yet General Gated Network   <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.10396)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)\|<br>[Res.](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) 
 
+</details> 
 
-## COD 
+
+<details>
+<summary><h2>COD</h2></summary>
 
 ### 2025 
 
@@ -333,9 +347,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | TIP<br><sup>2018</sup>   | <sup>`FWFC`</sup> | A Fusion Framework for Camouflaged Moving Foreground Detection in the Wavelet Domain  <sub>![Static Badge](https://img.shields.io/badge/CAMO_UOW-grey)</sub>    <br><sup><sub>*Shuai Li, Dinei Florencio, Wanqing Li, Yaqin Zhao, Chris Cook*</sub></sup>   | [Paper](https://arxiv.org/abs/1804.05984)\|[Code](https://sites.google.com/view/wanqingli/data-sets/uow-camo?authuser=0)    |
 | IJCV<br><sup>2017</sup>   | <sup>`modiPNN`</sup> | Partially Camouflaged Object Tracking using Modified Probabilistic Neural Network and Fuzzy Energy based Active Contour    <br><sup><sub>*Ajoy Mondal, Susmita Ghosh, Ashish Ghosh*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s11263-016-0959-5)\|Code   |
 
+</details>
 
 
-## VCOD
+<details>
+<summary><h2>VCOD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -360,8 +376,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2017 | IJCV | <sup>`modiPNN`</sup> | Partially Camouflaged Object Tracking using Modified Probabilistic Neural Network and Fuzzy Energy based Active Contour    <br><sup><sub>*Ajoy Mondal, Susmita Ghosh, Ashish Ghosh*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s11263-016-0959-5)\|Code   |
 | 2016 | ECCV | <sup>`CMS`</sup> | It’s Moving! A Probabilistic Model for Causal Motion Segmentation in Moving Camera Videos     <sub>![Static Badge](https://img.shields.io/badge/Camouflaged--Animals--Dataset-grey)</sub>         <br> <sup><sub>*Pia Bideau, Erik Learned-Miller*</sub></sup>  | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_26)\|[Code](http://vis-www.cs.umass.edu/motionSegmentation/)
 
+</details>
 
-## CIS 
+
+<details>
+<summary><h2>CIS</h2></summary> 
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -374,9 +393,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2022 | TIP  | <sup>`CFL`</sup> | Camouflaged Instance Segmentation In-The-Wild: Dataset, Method, and Benchmark Suite   <sub>![Static Badge](https://img.shields.io/badge/CAMO++-grey)</sub>     <br> <sup><sub>*Trung-Nghia Le, Yubo Cao, Tan-Cong Nguyen, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2103.17123)\|[Proj](https://sites.google.com/view/ltnghia/research/camo_plus_plus)  
 | 2021 | AAAI | <sup>`-`</sup> | CamouFinder: Finding Camouflaged Instances in Images `Demo`    <br><sup><sub>*Trung-Nghia Le, Vuong Nguyen, Cong Le, et al.*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/18015)\|[Video](https://www.youtube.com/watch?v=RI4nt5MDmwE&ab_channel=TrungNgh%C4%A9aL%C3%AA)
 
+</details>
 
 
-## WSCOD 
+<details>
+<summary><h2>WSCOD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |  
@@ -388,9 +409,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2023 | NeurIPS | <sup>`WS-SAM`</sup> | Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2305.11003)\|[Code](https://github.com/ChunmingHe/WS-SAM)
 | 2023 | AAAI | <sup>`CRNet`</sup> | Weakly-Supervised Camouflaged Object Detection with Scribble Annotations  `Scribble` <sub>![Static Badge](https://img.shields.io/badge/S--COD-grey)</sub> <br> <sup><sub>*Ruozhen He, Qihua Dong, Jiaying Lin, Rynson W.H. Lau*</sub></sup>  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25156)\|[Code](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
 
+</details>
 
 
-## Semi-supervised COD
+<details>
+<summary><h2>Semi-supervised COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -399,10 +422,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2024 | MM | <sup>`-`</sup> | Semi-supervised Camouflaged Object Detection from Noisy Data `SS COD`  <br> <sup><sub>*Yuanbin Fu, Jie Ying, Houlei Lv, Xiaojie Guo*</sub></sup>  | [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680645)\|Code 
 | 2024 | ECCV | <sup>`CamoTeacher`</sup> | CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection   `WSS COD`  <br> <sup><sub>*Xunfa Lai, Zhiyu Yang, Jie Hu, Shengchuan Zhang, Liujuan Cao, Guannan Jiang, Zhiyu Wang, Songan Zhang, Rongrong Ji*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.08050)\|Code
 
+</details>
 
 
-
-## Unsupervised COD
+<details>
+<summary><h2>Unsupervised COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -411,18 +435,22 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2025 | AAAI |  <sup>`SdalsNet`</sup> | SdalsNet: Self-Distilled Attention Localization and Shift Network for Unsupervised Camouflaged Object Detection  <br> <sup><sub>*Peiyao Shou, Yixiu Liu, Wei Wang, Yaoqi Sun, Zhigao Zheng, Shangdong Zhu, Chenggang Yan*</sub></sup>  | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32742)\|Code
 | 2023 | ICCVW | <sup>`UCOS-DA`</sup>	| Unsupervised Camouflaged Object Segmentation as Domain Adaptation   <br> <sup><sub>*Yi Zhang; Chengyi Wu*</sub></sup>  | [Paper](https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Zhang_Unsupervised_Camouflaged_Object_Segmentation_as_Domain_Adaptation_ICCVW_2023_paper.html)\|[Code](https://github.com/YeeZ93/UCOS-DA)
 
+</details>
 
 
-## Zero-Shot COD
+<details>
+<summary><h2>Zero-Shot COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
 | 2024 | MM | <sup>`MMCPF`</sup> | Chain of Visual Perception: Harnessing Multimodal Large Language Models for Zero-shot Camouflaged Object Detection    <br> <sup><sub>*Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.11273)\|[Code](https://github.com/luckybird1994/MMCPF) 
 | 2023 | TIP | <sup>`ZSCOD`</sup> | Zero-Shot Camouflaged Object Detection     <br> <sup><sub>*Haoran Li; Chun-Mei Feng; Yong Xu; Tao Zhou; Lina Yao; Xiaojun Chang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10234216)\|Code  
 
+</details>
 
 
-## RefCOD
+<details>
+<summary><h2>RefCOD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -431,19 +459,22 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2024 | ICME | <sup>`RPMA`</sup> | Reference Prompted Model Adaptation for Referring Camouflaged Object Detection   <br> <sup><sub>*Xuewei Liu; Shaofei Huang; Ruipu Wu; Hengyuan Zhao; Duo Xu; Xiaoming Wei*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10687557)\|Code
 | 2023  | arXiv | <sup>`MLKG`</sup> | Large Model Based Referring Camouflaged Object Detection   <br> <sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.17122)\|Code
 
+</details>
 
 
-## OVCOS
+<details>
+<summary><h2>OVCOS</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | 2024  | ECCV | <small><sup>`OVCoser`</sup></small> | Open-Vocabulary Camouflaged Object Segmentation    <sub>![Static Badge](https://img.shields.io/badge/OVCamo-grey)</sub>    <br> <sup><sub>*Youwei Pang, Xiaoqi Zhao, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>   | [Paper](https://arxiv.org/abs/2311.11241)\|[Code](https://github.com/lartpang/OVCamo)
 | 2023  | arXiv | <small><sup>`-`</sup></small> | Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation  <br> <sup><sub>*Tuan-Anh Vu, Duc Thanh Nguyen, Qing Guo, Binh-Son Hua, Nhat Minh Chung, Ivor W. Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://arxiv.org/abs/2312.17505)\|Code 
 
+</details>
 
 
-
-## RGBP COS
+<details>
+<summary><h2>RGBP COS</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -451,9 +482,11 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2024 | EAAI | <small><sup>`IPNet`</sup></small> | IPNet: Polarization-based Camouflaged Object Detection via dual-flow network   <sub>![Static Badge](https://img.shields.io/badge/PCOD_1200-grey)</sub>   <br> <sup><sub>*Xin Wang, Jiajia Ding, Zhao Zhang, Junfeng Xu, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197623014872)\|[Code](https://github.com/CVhfut/PCOD_1200) 
 | 2023 | PRL | <small><sup>`PolarNet`</sup></small> | Polarization-based Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/PCOD-grey)</sub>  <br> <sup><sub>*Xin Wang, Zhao Zhang, Jun Gao*</sub></sup>   | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523002532)\|[Code](https://github.com/CVhfut/Polar-COD)
 
+</details>
 
 
-## Camouflaged Generation 
+<details>
+<summary><h2>Camouflage Generation</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -464,19 +497,18 @@ A curated collection of awesome resources for **Camouflaged Vision**, including:
 | 2022 | TMM | <small><sup>`LCG-Net`</sup></small> | Location-Free Camouflage Generation Network  <br> <sup><sub>*Yangyang Li, Wei Zhai, Yang Cao, Zheng-jun Zha*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09845)\|[Code](https://github.com/Tale17/LCG-Net) 
 | 2020 | AAAI |   <small><sup>`-`</sup></small>   | Deep Camouflage Images        <br><sup><sub>*Qing Zhang, Gelin Yin, Yongwei Nie, Wei-Shi Zheng*</sub></sup>       | [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6981)\|[Code](https://github.com/hirokic5/Pytorch_CamouflageImages) |
 
+</details>
 
 
 
-
-
-## Other Related 
+<details>
+<summary><h2>Other Related</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |  
 | 2022 | CVPR | <small><sup>`DTA`</sup></small> | DTA: Physical Camouflage Attacks using Differentiable Transformation Network     <br> <sup><sub>*Naufal Suryanto, Yongsu Kim, Hyoeun Kang, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09831)\|Code
 
-
-
+</details>
 
 
 ## Datasets
