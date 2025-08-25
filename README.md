@@ -73,11 +73,11 @@
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2310.20208)</sub>
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/lartpang/ZoomNeXt)</sub>
 
-- **Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation** `ProMaC` <br> 
-  Jian Hu, Jiayi Lin, Junchi Yan, Shaogang Gong <br> 
-  *NeurIPS*, 2024 
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2408.15205)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/lwpyh/ProMaC_code)</sub>
+- **Uncertainty-Aware Transformer for Referring Camouflaged Object Detection** `UAT` <br>
+  Ranwan Wu, Tian-Zhu Xiang, Guo-Sen Xie, Rongrong Gao, Xiangbo Shu, Fang Zhao, Ling Shao <br>
+  *TIP*, 2025
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://ieeexplore.ieee.org/abstract/document/11080234)</sub>
+  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/CVL-hub/UAT)</sub>
 
 - **Spider: A Unified Framework for Context-dependent Concept Understanding** `Spider` <br>
   Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu <br>
@@ -90,7 +90,6 @@
   *TIP*, 2024
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2408.15020)</sub>
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/Garyson1204/HGINet)</sub>
-
 
 
 ## Preprint
@@ -459,10 +458,12 @@
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
-| 2025  | TPAMI | <sup>`R2CNet`</sup> | Referring Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub>  <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup>  | [Paper](https://arxiv.org/abs/2306.07532)\|[Code](https://github.com/zhangxuying1004/RefCOD)
-| 2025 | WACV | <sup>`CIRCOD`</sup> | CIRCOD: Co-Saliency Inspired Referring Camouflaged Object Discovery  <br> <sup><sub>*Avi Gupta; Koteswar Rao Jerripothula; Tammam Tillo*</sub></sup>  | [Paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i320/25KnoFtUNIA)\|[Code](https://github.com/avigupta2798/CIRCOD/)  
-| 2024 | ICME | <sup>`RPMA`</sup> | Reference Prompted Model Adaptation for Referring Camouflaged Object Detection   <br> <sup><sub>*Xuewei Liu; Shaofei Huang; Ruipu Wu; Hengyuan Zhao; Duo Xu; Xiaoming Wei*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10687557)\|Code
-| 2023  | arXiv | <sup>`MLKG`</sup> | Large Model Based Referring Camouflaged Object Detection   <br> <sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.17122)\|Code
+| --  | arXiv | <sup>`MLKG`</sup> | Large Model Based Referring Camouflaged Object Detection   <br> <sup><sub>*Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.17122)\|Code   
+| 2025  | TIP | <sup>`UAT`</sup> | Uncertainty-Aware Transformer for Referring Camouflaged Object Detection  <br> <sup><sub>*Ranwan Wu, Tian-Zhu Xiang, Guo-Sen Xie, Rongrong Gao, Xiangbo Shu, Fang Zhao, Ling Shao*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/11080234)\|[Code](https://github.com/CVL-hub/UAT)
+| 2025 | WACV | <sup>`CIRCOD`</sup> | CIRCOD: Co-Saliency Inspired Referring Camouflaged Object Discovery  <br> <sup><sub>*Avi Gupta; Koteswar Rao Jerripothula; Tammam Tillo*</sub></sup>  | [Paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i320/25KnoFtUNIA)\|[Code](https://github.com/avigupta2798/CIRCOD/)    
+| 2025  | TPAMI | <sup>`R2CNet`</sup> | Referring Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub>  <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup>  | [Paper](https://arxiv.org/abs/2306.07532)\|[Code](https://github.com/zhangxuying1004/RefCOD)   
+| 2024 | ICME | <sup>`RPMA`</sup> | Reference Prompted Model Adaptation for Referring Camouflaged Object Detection   <br> <sup><sub>*Xuewei Liu; Shaofei Huang; Ruipu Wu; Hengyuan Zhao; Duo Xu; Xiaoming Wei, Jizhong Han, Si Liu*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10687557)\|Code
+
 
 </details>
 
