@@ -52,7 +52,9 @@
 - [Open-Vocabulary COS](#OVCOS)
 - [RGB-P COS](#RGBP-COS)
 - [MMW COD](#MMW-COD)
-- [Camouflage Generation](#Camouflage-Generation )
+- [Camouflage Generation](#Camouflage-Generation)
+- [Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)
+- [(Multi/Hyper-)Spectral COD](#Spectral-COD)
 - [Other Related](#Other-Related)
 - [Datasets](#Datasets)
 - [Appendix](#Appendix)
@@ -134,6 +136,7 @@
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
+| TCSVT<br><sup>2025</sup> | <sup>`DAD`</sup>   | Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation    <br> <sup><sub>*Jiepan Li; Wei He; Fangxiao Lu; Hongyan Zhang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11175179)\| [Code](https://github.com/Henryjiepanli/DAD)   
 | AAAI<br><sup>2025</sup> | <sup>`FOCUS`</sup>  | FOCUS: Towards Universal Foreground Segmentation   <br> <sup><sub>*Zuyao You, Lingyu Kong, Lingchen Meng, Zuxuan Wu*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.05238)\| [Code](https://geshang777.github.io/focus.github.io/)  
 | ICML<br><sup>2024</sup> |  <sup>`Spider`</sup>  | Spider: A Unified Framework for Context-dependent Concept Understanding    <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Wei Ji, Baicheng Sheng, Jiaming Zuo, Lihe Zhang, Huchuan Lu*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.01002)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg)  
 | IJCV<br><sup>2024</sup> |  <sup>`GateNetv2`</sup> | Towards Diverse Binary Segmentation via A Simple yet General Gated Network   <br> <sup><sub>*Xiaoqi Zhao, Youwei Pang, Lihe Zhang, Huchuan Lu, Lei Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2303.10396)\|[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency)\|<br>[Res.](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) 
@@ -559,6 +562,29 @@
 | 2020 | AAAI |   <small><sup>`-`</sup></small>   | Deep Camouflage Images        <br><sup><sub>*Qing Zhang, Gelin Yin, Yongwei Nie, Wei-Shi Zheng*</sub></sup>       | [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6981)\|[Code](https://github.com/hirokic5/Pytorch_CamouflageImages) |
 
 </details>
+
+
+<details>
+<summary><h2>Camouflaged Object Tracking</h2></summary>
+
+| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
+| 2025 | ACMMM DS | <small><sup>`HiPTrack-MLS`</sup></small> | Camouflaged Object Tracking: A Benchmark  <sub>![Static Badge](https://img.shields.io/badge/COTD-grey)</sub>  <br> <sup><sub>*Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Defeng Huang, Huikai Shao, Qijun Zhao, Shuiwang Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.13877)\|[Code](https://github.com/openat25/HIPTrack-MLS)
+
+</details>
+
+
+
+<details>
+<summary><h2>Spectral COD</h2></summary>
+(Multi/Hyper-) Spectral COD
+
+| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
+| 2025 | ACMMM DS | <small><sup>`MCOD`</sup></small> | MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/MCOD-grey)</sub>  <br> <sup><sub>*Yang Li, Tingfa Xu, ShuYan Bai, Peifu Liu, Jianan Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2509.15753)\|[Code](https://github.com/yl2900260-bit/MCOD)
+
+</details>
+
 
 
 
