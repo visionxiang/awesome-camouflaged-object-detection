@@ -578,7 +578,8 @@
 
 <details>
 <summary><h2>Spectral COD</h2></summary>
-(Multi/Hyper-) Spectral COD
+  
+<sup>(Multi-/Hyper-) Spectral COD</sup>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -630,7 +631,7 @@
 [S-COD](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) | 2023 | AAAI | [Paper](https://arxiv.org/abs/2207.14083) | Scribble | 4040 | 
 
 
-### - Visual-Language Dataset
+#### - Visual-Language Dataset
 
 | **Name** | **Year** | **Pub.** | **Links** | **Img.(Camo.)** | **BBbox** | **Pix.** | **Ins.** | **Comments**
 | :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
