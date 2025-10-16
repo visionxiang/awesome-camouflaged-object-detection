@@ -189,14 +189,18 @@
 <details>
 <summary><h2 id="COD">🎯 Camouflaged Object Detection (COD)</h2></summary>
 
-### 2026 
+<details open>
+<summary><h3>2026</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
 | PR<br><sup>2026</sup> | <sup>`TG-COD`</sup>  | Text-guided camouflaged object detection    <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code 
 
+</details>
 
-### 2025 
+
+<details>
+<summary><h3>2025</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -245,8 +249,11 @@
 | CVIU<br><sup>2025</sup>  | <sup>`CTF-Net`</sup> | An effective CNN and Transformer fusion network for camouflaged object detection <br> <sup><sub>*Dongdong Zhang, Chunping Wang, Huiying Wang, Qiang Fu, Zhaorui Li*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314225001547?via%3Dihub)\|[Code](https://github.com/zcc0616/CTF-Net)
 | AIR<br><sup>2025</sup>  | <sup>`PCNet`</sup> | PlantCamo: Plant Camouflage Detection  <sub>![Static Badge](https://img.shields.io/badge/PlantCamo-grey)</sub>  <br> <sup><sub>*Jinyu Yang and Qingwei Wang and Feng Zheng and Peng Chen and Aleš Leonardis and Deng-Ping Fan*</sub></sup>  | [Paper](https://arxiv.org/abs/2410.17598)\|[Code](https://github.com/yjybuaa/PlantCamo)  
 
+</details>
 
-### 2024
+
+<details>
+<summary><h3>2024</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -307,8 +314,11 @@
 <!--| ApplSci<br><sup>2024</sup> | <sup>`CCGNet`</sup> | Camouflaged Object Detection That Does Not Require Additional Priors   <br> <sup><sub>*Yuchen Dong, Heng Zhou, Chengyang Li, Junjie Xie, Yongqiang Xie, and Zhongbo Li*</sub></sup>  | [Paper](https://www.mdpi.com/2076-3417/14/6/2621)\|Code
 -->
 
+</details>
 
-### 2023
+
+<details>
+<summary><h3>2023</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
@@ -356,8 +366,11 @@
 | TIM<br><sup>2023</sup> | <sup>`JCNet`</sup> | Camouflaged Object Segmentation Based on Joint Salient Object for Contrastive Learning  <br> <sup><sub>*Jiang, Xinhao and Cai, Wei and Ding, Yao and Wang, Xin and Hong, Danfeng and Yang, Zhiyong and Gao, Weijie*</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10224812)\|[Code](https://github.com/jiangxinhao2020/JCNet)  
 | ApplInt<br><sup>2023</sup> | <sup>`TSFNet`</sup> | Ternary symmetric fusion network for camouflaged object detection  <br> <sup><sub>*Yangyang Deng, Jianxin Ma, Yajun Li, Min Zhang & Li Wang*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s10489-023-04898-6)\|Code
 
+</details>
 
-### 2022 
+
+<details>
+<summary><h3>2022</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- | 
@@ -383,8 +396,11 @@
 |   MIR<br><sup>2022</sup>   |  <sup>`DGNet`</sup> | Deep Gradient Learning for Efficient Camouflaged Object Detection <br> <sup><sub>*Ge-Peng Ji, Deng-Ping Fan, Yu-Cheng Chou, et al.*</sub></sup> | [Paper](https://arxiv.org/abs/2205.12853)\|[Code](https://github.com/GewelsJI/DGNet)
 |   TOMM<br><sup>2022</sup>   | <sup>`FBNet`</sup>  | Frequency-aware Camouflaged Object Detection <br> <sup><sub>*Jiaying Lin, Xin Tan, Ke Xu, Lizhuang Ma, Rynson W.H. Lau*</sub></sup> | [Paper](https://dl.acm.org/doi/abs/10.1145/3545609)\|Code 
 
+</details>
 
-### 2021
+
+<details>
+<summary><h3>2021</h2></summary>
 
 | **Pub.** | **Model** | **Title**                                                   |  **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
@@ -400,8 +416,11 @@
 |   TIE<br><sup>2021</sup>   | <sup>`D2C-Net`</sup> | D2C-Net: A Dual-branch, Dual-guidance and Cross-refine Network for Camouflaged Object Detection <br><sup><sub>*Kang Wang, Hongbo Bi, Yi Zhang, Cong Zhang, Ziqi Liu, Shuang Zheng*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/9430677)\|[Code](https://github.com/MS-KangWang/COD-D2Net) 
 |   ACCESS<br><sup>2021</sup>   |  <sup>`MirrorNet`</sup> | MirrorNet: Bio-Inspired Camouflaged Object Segmentation     <br><sup><sub>*Jinnan Yan, Trung-Nghia Le, Khanh-Duy Nguyen, Minh-Triet Tran, Thanh-Toan Do, Tam V. Nguyen*</sub></sup>  | [Paper](https://arxiv.org/abs/2007.12881)\|[Proj](https://sites.google.com/view/ltnghia/research/camo)
 
+</details>
 
-### Before 2020 
+
+<details>
+<summary><h3>Before 2020</h2></summary>
 
 | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -410,6 +429,8 @@
 | SPL<br><sup>2019</sup>   |  <sup>`CPDDNet`</sup> | Detection of People With Camouflage Pattern Via Dense Deconvolution Network    <sub>![Static Badge](https://img.shields.io/badge/CPD1K-grey)</sub>  <br><sup><sub>*Yunfei Zheng, Xiongwei Zhang, Feng Wang, Tieyong Cao, Meng Sun, Xiaobing Wang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/8336933)\|[Code](https://github.com/xfflyer/Camouflaged-people-detection) 
 | TIP<br><sup>2018</sup>   | <sup>`FWFC`</sup> | A Fusion Framework for Camouflaged Moving Foreground Detection in the Wavelet Domain  <sub>![Static Badge](https://img.shields.io/badge/CAMO_UOW-grey)</sub>    <br><sup><sub>*Shuai Li, Dinei Florencio, Wanqing Li, Yaqin Zhao, Chris Cook*</sub></sup>   | [Paper](https://arxiv.org/abs/1804.05984)\|[Code](https://sites.google.com/view/wanqingli/data-sets/uow-camo?authuser=0)    |
 | IJCV<br><sup>2017</sup>   | <sup>`modiPNN`</sup> | Partially Camouflaged Object Tracking using Modified Probabilistic Neural Network and Fuzzy Energy based Active Contour    <br><sup><sub>*Ajoy Mondal, Susmita Ghosh, Ashish Ghosh*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s11263-016-0959-5)\|Code   |
+
+</details>
 
 </details>
 
