@@ -96,7 +96,7 @@
 
 
 <!--## 📄 Preprint-->
-<details>
+<details open>
 <summary><h2 id="preprint">📄 Preprint</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
@@ -665,12 +665,12 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 
 
-## 📎 Appendix
+## 📎 Reference
 
 - [Awesome List for Camouflaged Object Detection](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 
 
-## Star History
+## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=visionxiang/awesome-camouflaged-object-detection&type=date&legend=top-left)](https://www.star-history.com/#visionxiang/awesome-camouflaged-object-detection&type=date&legend=top-left)
 
