@@ -17,7 +17,7 @@
 > 🔄 We commit to regular updates for ongoing resource improvements.
 
 
-<details open>
+<details>
 <summary><strong>:loudspeaker: Icon Legend</strong></summary>
 <!--:heavy_exclamation_mark:🔑-->
 <!--<sub>![Static Badge](https://img.shields.io/badge/dataset-grey)</sub>-->
@@ -33,7 +33,7 @@
 
 
 <details>
-<summary><strong>:loudspeaker: Latest Updates</strong></summary>
+<summary><strong>:loudspeaker: Latest Updates: 2025.10</strong></summary>
 <p style="line-height: 1;"></p>  
   
 - [10/2025] Update with NeurIPS2025 and latest papers. 
