@@ -39,7 +39,7 @@
 ## 📋 Table of Contents:
 - [Preprint](#Preprint)
 - [Survey Papers](#Survey-Papers)
-- Subtopics
+- Focal Topics
   - [Universal Segmentation](#Universal-Segmentation)
   - [Camouflaged Object Detection (COD)](#COD)
   - [Video Camouflaged Object Detection (VCOD)](#VCOD)
