@@ -95,7 +95,9 @@
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/Garyson1204/HGINet)</sub>
 
 
-## 📄 Preprint {#preprint}
+<!--## 📄 Preprint-->
+<details>
+<summary><h2 id="preprint">📄 Preprint</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
@@ -115,7 +117,7 @@
 | arXiv |  <sup>`MCIFNet`</sup> | Towards Accurate Camouflaged Object Detection with Mixture Convolution and Interactive Fusion <br> <sup><sub>*Bo Dong, Mingchen Zhuge, Yongxiong Wang, Hongbo Bi, Geng Chen*</sub></sup> | [Paper](https://arxiv.org/pdf/2101.05687.pdf)\|[Code](https://github.com/BigHeartDB/MCIFNet)  
 | arXiv |  <sup>`BASNet`</sup>  | Boundary-Aware Segmentation Network for Mobile and Web Applications <br> <sup><sub>*Xuebin Qin, Deng-Ping Fan, Chenyang Huang, et al.*</sub></sup> | [Paper](https://arxiv.org/pdf/2101.04704.pdf)\|[Code](https://github.com/xuebinqin/BASNet) 
 
-
+</details>
 
 
 ## 📚 Survey Papers
