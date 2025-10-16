@@ -36,8 +36,7 @@
 
 <!--TOC-->
 
-## 📚 Table of Contents:
-<!-- - [Overview](#Overview) -->
+## 📋 Table of Contents:
 - [Preprint](#Preprint)
 - [Survey Papers](#Survey-Papers)
 - [Universal Segmentation](#Universal-Segmentation)
@@ -54,7 +53,7 @@
 - [MMW COD](#MMW-COD)
 - [Camouflage Generation](#Camouflage-Generation)
 - [Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)
-- [(Multi/Hyper-)Spectral COD](#Spectral-COD)
+- [(Multi/Hyper-)Spectral COD](#Multi-Spectral-COD)
 - [Other Related](#Other-Related)
 - [Datasets](#Datasets)
 - [Appendix](#Appendix)
@@ -62,7 +61,7 @@
 --------------------------------------------------------------------------------------
 
 
-## :triangular_flag_on_post: Highlight:
+## 🔥 Recent Featured Papers:
 <!--:triangular_flag_on_post:-->
 
 - **Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations** `CaMF` <br>
@@ -96,7 +95,7 @@
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/Garyson1204/HGINet)</sub>
 
 
-## Preprint
+## 📄 Preprint
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
@@ -119,7 +118,7 @@
 
 
 
-## Survey Papers
+## 📚 Survey Papers
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -132,7 +131,7 @@
 
 
 <details>
-<summary><h2>Universal Segmentation</h2></summary>
+<summary><h2>🎯 Universal Segmentation</h2></summary>
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -577,7 +576,7 @@
 
 
 <details>
-<summary><h2>Spectral COD</h2></summary>
+<summary><h2>Multi-Spectral COD</h2></summary>
   
 <sup>(Multi-/Hyper-) Spectral COD</sup>
 
@@ -600,7 +599,7 @@
 </details>
 
 
-## Datasets
+## 📊 Datasets
 
 <sup>Note: Ann. Img. = Number of frames annotated in the dataset; BBbox = Bounding box; Pix. = Pixel-level mask; Ins. = Instance mask; Cate. = Category.</sup>
 
@@ -652,7 +651,7 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 [CAD](https://www.user.tu-berlin.de/pbideau/motionSegmentation/index.html) | 2016 | ECCV | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_26) | Video | 9/191 |   | &check; |   |   | <sup><sub>Camouflaged Animal Dataset (CAD)</sub></sup>  
 
 
-#### - Other Related Dataset 
+#### - Other Related Datasets 
 
 | **Name** | **Year** | **Pub.** | **Links** | **Type** | **Img.(Camo.)** | **Ann.** | **Comments**
 | :------: | :------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
@@ -664,9 +663,12 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 
 
-## Appendix
+## 📎 Appendix
 
 - [Awesome List for Camouflaged Object Detection](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=visionxiang/awesome-camouflaged-object-detection&type=date&legend=top-left)](https://www.star-history.com/#visionxiang/awesome-camouflaged-object-detection&type=date&legend=top-left)
 
