@@ -14,7 +14,7 @@
 > - Camouflaged/Concealed Scene Understanding (CSU)
 > - etc.
 > 
-> 🔥 We commit to maintaining regular updates to ensure the continuous enhancement of this resource.
+> 🔄 We commit to maintaining regular updates to ensure the continuous enhancement of this resource.
 
 <details>
 <summary><strong>:loudspeaker: Latest Updates</strong></summary>
@@ -95,7 +95,7 @@
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/Garyson1204/HGINet)</sub>
 
 
-## 📄 Preprint
+## 📄 Preprint {#preprint}
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |
