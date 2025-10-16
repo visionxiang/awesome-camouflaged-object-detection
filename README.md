@@ -14,11 +14,29 @@
 > - Camouflaged/Concealed Scene Understanding (CSU)
 > - etc.
 > 
-> 🔄 We commit to maintaining regular updates to ensure the continuous enhancement of this resource.
+> 🔄 We commit to regular updates for ongoing resource improvements.
+
+
+<details open>
+<summary><strong>:loudspeaker: Icon Legend</strong></summary>
+<!--:heavy_exclamation_mark:🔑-->
+<!--<sub>![Static Badge](https://img.shields.io/badge/dataset-grey)</sub>-->
+
+<p style="line-height: 1;"></p>  
+<table>
+    <tr>
+        <td style="width: 20%;"><sub><img src="https://img.shields.io/badge/dataset-grey" alt="Dataset Badge"></sub></td>
+        <td style="width: 20%;">Dataset</td>
+    </tr>
+</table>
+</details>
+
 
 <details>
 <summary><strong>:loudspeaker: Latest Updates</strong></summary>
-
+<p style="line-height: 1;"></p>  
+  
+- [10/2025] Update with NeurIPS2025 and latest papers. 
 - [09/2025] Update with ACMMM2025 and latest papers. 
 - [06/2025] Update with ICCV2025 papers.    
 - [06/2025] Update with CVPR2025, AAAI2025 papers.    
@@ -30,15 +48,14 @@
 - [04/2023] Update with CVPR2023 papers for COD and CIS.
 </details>
 
-:heavy_exclamation_mark: <sub>![Static Badge](https://img.shields.io/badge/dataset-grey)</sub>
 
 --------------------------------------------------------------------------------------
 
 <!--TOC-->
 
-## 📋 Table of Contents:
-- [Preprint](#Preprint)
-- [Survey Papers](#Survey-Papers)
+## 📋 Table of Contents
+- [Preprint](#preprint)
+- [Survey Papers](#survey-papers)
 - Focal Topics
   - [Universal Segmentation](#Universal-Segmentation)
   - [Camouflaged Object Detection (COD)](#COD)
@@ -50,10 +67,11 @@
   - [Zero-Shot COD](#Zero-Shot-COD)
   - [Referring COD](#RefCOD)
   - [Open-Vocabulary COS](#OVCOS)
-  - [RGB-P COS](#RGBP-COS)
+  - [VLM in COS](#VLMCOS)
+  - [RGB-P COD](#RGBP-COD)
   - [MMW COD](#MMW-COD)
   - [Camouflage Generation](#Camouflage-Generation)
-  - [Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)
+  - [Camouflaged Object Tracking (COT)](#COT)
   - [(Multi/Hyper-)Spectral COD](#Multi-Spectral-COD)
   - [Other Related Tasks](#Other-Related)
 - [Datasets](#Datasets)
@@ -62,7 +80,7 @@
 --------------------------------------------------------------------------------------
 
 
-## 🔥 Recent Featured Papers:
+## 🔥 Recent Featured Papers
 <!--:triangular_flag_on_post:-->
 
 - **Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations** `CaMF` <br>
@@ -95,6 +113,20 @@
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2408.15020)</sub>
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/Garyson1204/HGINet)</sub>
 
+- **CamSAM2: Segment Anything Accurately in Camouflaged Videos** `CamSAM2` <br>
+  Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu <br>
+  *NeurIPS*, 2025
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2503.19730)</sub>
+  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/zhoustan/CamSAM2)</sub>
+
+- **MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes** <br>
+  Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen <br>
+  *NeurIPS*, 2025
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://neurips.cc/virtual/2025/poster/121542)</sub>
+
+
+
+--------------------------------------------------------------------------------------
 
 <!--## 📄 Preprint-->
 <details open>
@@ -105,8 +137,7 @@
 | arXiv | <sup>`EVP`</sup>  | Explicit Visual Prompting for Universal Foreground Segmentations  <br> <sup><sub>*Weihuang Liu, Xi Shen, Chi-Man Pun, Xiaodong Cun*</sub></sup>  | [Paper](https://arxiv.org/abs/2305.18476)\|[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)
 | arXiv | <sup>`-`</sup>  | Scoring, Remember, and Reference: Catching Camouflaged Objects in Videos  <br> <sup><sub>*Yuang Feng, Shuyong Gao, Fuzhen Yan, Yicheng Song, Lingyi Hong, Junjie Hu, Wenqiang Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2503.17050)\|Code 
 | arXiv | <sup>`-`</sup>  | Knowledge Rectification for Camouflaged Object Detection: Unlocking Insights from Low-Quality Data  <br> <sup><sub>*Juwei Guan, Xiaolin Fang, Donghyun Kim, Haotian Gong, Tongxin Zhu, Zhen Ling, Ming Yang*</sub></sup>  | [Paper](https://arxiv.org/abs/2503.22180)\|Code
-| arXiv | <sup>`CamoSAM2`</sup>  | CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection  <br> <sup><sub>*Xin Zhang, Keren Fu, Qijun Zhao*</sub></sup>  | [Paper](https://arxiv.org/abs/2504.00375)\|Code
-| arXiv | <sup>`CamSAM2`</sup>  | CamSAM2: Segment Anything Accurately in Camouflaged Videos   <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup>  | [Paper](https://arxiv.org/abs/2503.19730)\|[Code](https://github.com/zhoustan/CamSAM2) 
+| arXiv | <sup>`CamoSAM2`</sup>  | CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection  <br> <sup><sub>*Xin Zhang, Keren Fu, Qijun Zhao*</sub></sup>  | [Paper](https://arxiv.org/abs/2504.00375)\|Code 
 | arXiv | <sup>`CAFR`</sup>  | Toward Realistic Camouflaged Object Detection: Benchmarks and Method  `BBox`  <br> <sup><sub>*Zhimeng Xin, Tianxu Wu, Shiming Chen, Shuo Ye, Zijing Xie, Yixiong Zou, Xinge You, Yufei Guo*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.07297)\|[Code](https://github.com/zhimengXin/RCOD) 
 | arXiv | <sup>`HPGT`</sup> | A Holistically Point-guided Text Framework for Weakly-Supervised Camouflaged Object Detection      <br> <sup><sub>*Tsui Qin Mok, Shuyong Gao, Haozhe Xing, Miaoyang He, Yan Wang, Wenqiang Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.06038)\|Code 
 | arXiv | <sup>`AGLNet`</sup> | Adaptive Guidance Learning for Camouflaged Object Detection      <br> <sup><sub>*Zhennan Chen, Xuying Zhang, Tian-Zhu Xiang, Ying Tai*</sub></sup>  | [Paper](https://arxiv.org/abs/2405.02824)\|[Code](https://github.com/ZNan-Chen/AGLNet)
@@ -121,7 +152,11 @@
 </details>
 
 
-## 📚 Survey Papers
+--------------------------------------------------------------------------------------
+
+<!--## 📚 Survey Papers-->
+<details>
+<summary><h2 id="survey-papers">📚 Survey Papers</h2></summary>
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -131,10 +166,13 @@
 | 2023 | VI | Advances in Deep Concealed Scene Understanding   <sub>![Static Badge](https://img.shields.io/badge/CDS2K-grey)</sub>  <br> <sup><sub>*Deng-Ping Fan, Ge-Peng Ji, Peng Xu, Ming-Ming Cheng, Christos Sakaridis, Luc Van Gool*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s44267-023-00019-6#article-info)\|[Proj](https://github.com/DengPingFan/CSU)  
 | 2021 |  TCSVT  | Rethinking Camouflaged Object Detection: Models and Datasets   <br><sup><sub>*Hongbo Bi, Cong Zhang, Kang Wang, Jinghui Tong, Feng Zheng*</sub></sup>   | [Paper](https://ieeexplore.ieee.org/document/9598866)\|
 
+</details>
 
+
+--------------------------------------------------------------------------------------
 
 <details>
-<summary><h2>🎯 Universal Segmentation</h2></summary>
+<summary><h2 id="Universal-Segmentation">🎯 Universal Segmentation</h2></summary>
 
 | **Year** | **Pub.** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -146,18 +184,16 @@
 </details> 
 
 
-<details>
-<summary><h2>COD</h2></summary>
+--------------------------------------------------------------------------------------
 
+<details>
+<summary><h2 id="COD">🎯 Camouflaged Object Detection (COD)</h2></summary>
 
 ### 2026 
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
 | PR<br><sup>2026</sup> | <sup>`TG-COD`</sup>  | Text-guided camouflaged object detection    <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code 
-
-
-
 
 
 ### 2025 
@@ -210,11 +246,7 @@
 | AIR<br><sup>2025</sup>  | <sup>`PCNet`</sup> | PlantCamo: Plant Camouflage Detection  <sub>![Static Badge](https://img.shields.io/badge/PlantCamo-grey)</sub>  <br> <sup><sub>*Jinyu Yang and Qingwei Wang and Feng Zheng and Peng Chen and Aleš Leonardis and Deng-Ping Fan*</sub></sup>  | [Paper](https://arxiv.org/abs/2410.17598)\|[Code](https://github.com/yjybuaa/PlantCamo)  
 
 
-
-
 ### 2024
-
-<!---->
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -272,7 +304,6 @@
 | ECOINF<br><sup>2024</sup>  | <sup>`YOLOv8-SIM`</sup> | Camouflage detection: Optimization-based computer vision for Alligator sinensis with low detectability in complex wild environments   `BBox`      <br> <sup><sub>*Yantong Liu, Sai Che, Liwei Ai, Chuanxiang Song, Zheyu Zhang, Yongkang Zhou, Xiao Yang, Chen Xian*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/pii/S1574954124003443)\|[Code](https://github.com/Ap1rate/yolov8-SIM)
 | ACCESS<br><sup>2024</sup> | <sup>`FS-CDIS`</sup> | The Art of Camouflage: Few-shot Learning for Animal Detection and Segmentation  <sub>![Static Badge](https://img.shields.io/badge/CAMO--FS-grey)</sub>  <br> <sup><sub>*Thanh-Danh Nguyen, Anh-Khoa Nguyen Vu, Nhat-Duy Nguyen, Vinh-Tiep Nguyen, Thanh Duc Ngo, et al.*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/10608133)\|[Code](https://github.com/danhntd/FS-CDIS)    
 
-
 <!--| ApplSci<br><sup>2024</sup> | <sup>`CCGNet`</sup> | Camouflaged Object Detection That Does Not Require Additional Priors   <br> <sup><sub>*Yuchen Dong, Heng Zhou, Chengyang Li, Junjie Xie, Yongqiang Xie, and Zhongbo Li*</sub></sup>  | [Paper](https://www.mdpi.com/2076-3417/14/6/2621)\|Code
 -->
 
@@ -326,9 +357,6 @@
 | ApplInt<br><sup>2023</sup> | <sup>`TSFNet`</sup> | Ternary symmetric fusion network for camouflaged object detection  <br> <sup><sub>*Yangyang Deng, Jianxin Ma, Yajun Li, Min Zhang & Li Wang*</sub></sup> | [Paper](https://link.springer.com/article/10.1007/s10489-023-04898-6)\|Code
 
 
-
-
-
 ### 2022 
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
@@ -356,7 +384,6 @@
 |   TOMM<br><sup>2022</sup>   | <sup>`FBNet`</sup>  | Frequency-aware Camouflaged Object Detection <br> <sup><sub>*Jiaying Lin, Xin Tan, Ke Xu, Lizhuang Ma, Rynson W.H. Lau*</sub></sup> | [Paper](https://dl.acm.org/doi/abs/10.1145/3545609)\|Code 
 
 
-
 ### 2021
 
 | **Pub.** | **Model** | **Title**                                                   |  **Links**                                                    |
@@ -374,7 +401,6 @@
 |   ACCESS<br><sup>2021</sup>   |  <sup>`MirrorNet`</sup> | MirrorNet: Bio-Inspired Camouflaged Object Segmentation     <br><sup><sub>*Jinnan Yan, Trung-Nghia Le, Khanh-Duy Nguyen, Minh-Triet Tran, Thanh-Toan Do, Tam V. Nguyen*</sub></sup>  | [Paper](https://arxiv.org/abs/2007.12881)\|[Proj](https://sites.google.com/view/ltnghia/research/camo)
 
 
-
 ### Before 2020 
 
 | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
@@ -388,14 +414,17 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>VCOD</h2></summary>
+<summary><h2 id="VCOD">🎯 Video COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
 | 2025 | arXiv | <sup>`--`</sup> | CamoVid60K: A Large-Scale Video Dataset for Moving Camouflaged Animals Understanding   <sub>![Static Badge](https://img.shields.io/badge/CamoVid60K-grey)</sub>    <br> <sup><sub>*Tuan-Anh Vu, Ziqiang Zheng, Chengyang Song, Qing Guo, Ivor Tsang, Sai-Kit Yeung*</sub></sup>  | [Paper](https://camovid.hkustvgd.com/)\|Code 
 | 2025 | arXiv | <sup>`ZS-VCOS`</sup> | ZS-VCOS: Zero-Shot Video Camouflaged Object Segmentation By Optical Flow and Open Vocabulary Object Detection  <br> <sup><sub>*Wenqi Guo, Mohamed Shehata, Shan Du*</sub></sup>  | [Paper](https://arxiv.org/abs/2505.01431)\|[Code](https://github.com/weathon/vcos)
 | 2025 | arXiv | <sup>`--`</sup>  | MSVCOD: A Large-Scale Multi-Scene Dataset for Video Camouflage Object Detection   <sub>![Static Badge](https://img.shields.io/badge/MSVCOD-grey)</sub>    <br> <sup><sub>*Shuyong Gao, Yu'ang Feng, Qishan Wang, Lingyi Hong, Xinyu Zhou, Liu Fei, Yan Wang, Wenqiang Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2502.13859)\|Code 
+| 2025 | NeurIPS | <sup>`CamSAM2`</sup>  | CamSAM2: Segment Anything Accurately in Camouflaged Videos   <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu*</sub></sup>  | [Paper](https://arxiv.org/abs/2503.19730)\|[Code](https://github.com/zhoustan/CamSAM2) 
 | 2025 | NN | <sup>`--`</sup> | Disentangled self-supervised video camouflaged object detection and salient object detection   <br> <sup><sub>*Haoke Xiao, Lv Tang, Bo Li, Zhiming Luo, Shaozi Li*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025009578?via%3Dihub)\|Code
 | 2025 | TIP | <sup>`EMIP`</sup> | Explicit Motion Handling and Interactive Prompting for Video Camouflaged Object Detection   <br> <sup><sub>*Xin Zhang, Tao Xiao, Gepeng Ji, Xuan Wu, Keren Fu, Qijun Zhao*</sub></sup>  | [Paper](https://arxiv.org/abs/2403.01968)\|[Code](https://github.com/zhangxin06/EMIP)  
 | 2025 | VI | <sup>`SAM2-VCOS`</sup> | When SAM2 meets video camouflaged object segmentation: a comprehensive evaluation and adaptation   <br> <sup><sub>*Yuli Zhou, Guolei Sun, Yawei Li, Guo-Sen Xie, Luca Benini, Ender Konukoglu*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s44267-025-00082-1)\|[Code](https://github.com/zhoustan/SAM2-VCOS)  
@@ -421,8 +450,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>CIS</h2></summary> 
+<summary><h2 id="CIS">🎯 Camouflaged Instance Segmentation (CIS)</h2></summary> 
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -439,8 +470,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>WSCOD</h2></summary>
+<summary><h2 id="WSCOD">🎯 Weakly-Supervised COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |  
@@ -461,8 +494,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>Semi-supervised COD</h2></summary>
+<summary><h2 id="Semi-supervised-COD">🎯 Semi-supervised COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -476,8 +511,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>Unsupervised COD</h2></summary>
+<summary><h2 id="Unsupervised-COD">🎯 Unsupervised COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -489,8 +526,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>Zero-Shot COD</h2></summary>
+<summary><h2 id="Zero-Shot-COD">🎯 Zero-Shot COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
@@ -502,8 +541,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>RefCOD</h2></summary>
+<summary><h2 id="RefCOD">🎯 Referring COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -513,12 +554,13 @@
 | 2025  | TPAMI | <sup>`R2CNet`</sup> | Referring Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub>  <br> <sup><sub>*Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng*</sub></sup>  | [Paper](https://arxiv.org/abs/2306.07532)\|[Code](https://github.com/zhangxuying1004/RefCOD)   
 | 2024 | ICME | <sup>`RPMA`</sup> | Reference Prompted Model Adaptation for Referring Camouflaged Object Detection   <br> <sup><sub>*Xuewei Liu; Shaofei Huang; Ruipu Wu; Hengyuan Zhao; Duo Xu; Xiaoming Wei, Jizhong Han, Si Liu*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10687557)\|Code
 
-
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>OVCOS</h2></summary>
+<summary><h2 id="OVCOS">🎯 Open-Vocabulary COS</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -528,8 +570,22 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>RGBP COS</h2></summary>
+<summary><h2 id="VLMCOS">🎯 VLM in COS</h2></summary>
+
+| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2025 | NeurIPS | <small><sup>`MMCSBench`</sup></small> | MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes  <br> <sup><sub>*Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen*</sub></sup>   | [Paper](https://neurips.cc/virtual/2025/poster/121542)\|Code
+
+</details>
+
+
+--------------------------------------------------------------------------------------
+
+<details>
+<summary><h2 id="RGBP-COD">🎯 RGB-Polarization COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -540,9 +596,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
 
 <details>
-<summary><h2> MMW COD</h2></summary>
+<summary><h2 id="MMW-COD">🎯 MMW COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -551,9 +608,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
 
 <details>
-<summary><h2>Camouflage Generation</h2></summary>
+<summary><h2 id="Camouflage-Generation">🎯 Camouflage Generation</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -567,8 +625,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
+
 <details>
-<summary><h2>Camouflaged Object Tracking</h2></summary>
+<summary><h2 id="COT">🎯 Camouflaged Object Tracking (COT)</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
@@ -577,9 +637,10 @@
 </details>
 
 
+--------------------------------------------------------------------------------------
 
 <details>
-<summary><h2>Multi-Spectral COD</h2></summary>
+<summary><h2 id="Multi-Spectral-COD">🎯 Multi-Spectral COD</h2></summary>
   
 <sup>(Multi-/Hyper-) Spectral COD</sup>
 
@@ -590,10 +651,10 @@
 </details>
 
 
-
+--------------------------------------------------------------------------------------
 
 <details>
-<summary><h2>Other Related</h2></summary>
+<summary><h2 id="Other-Related">🎯 Other Related Tasks</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |  
@@ -602,7 +663,11 @@
 </details>
 
 
-## 📊 Datasets
+
+--------------------------------------------------------------------------------------
+
+<!--## 📊 Datasets-->
+<h2 id="Datasets">📊 Datasets</h2>
 
 <sup>Note: Ann. Img. = Number of frames annotated in the dataset; BBbox = Bounding box; Pix. = Pixel-level mask; Ins. = Instance mask; Cate. = Category.</sup>
 
@@ -667,12 +732,14 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 
 <!--## 📎 Reference-->
-<h2 "id="reference">📎 Reference</h2>
+<h2 id="reference">📎 Reference</h2>
 
 - [Awesome List for Camouflaged Object Detection](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
+- [Awesome Concealed Object Segmentation](https://github.com/ChunmingHe/awesome-concealed-object-segmentation)
 
 
-## ⭐ Star History
+<!--## ⭐ Star History-->
+<h2>⭐ Star History</h2>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=visionxiang/awesome-camouflaged-object-detection&type=date&legend=top-left)](https://www.star-history.com/#visionxiang/awesome-camouflaged-object-detection&type=date&legend=top-left)
 
