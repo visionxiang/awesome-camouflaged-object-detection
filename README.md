@@ -39,24 +39,25 @@
 ## 📋 Table of Contents:
 - [Preprint](#Preprint)
 - [Survey Papers](#Survey-Papers)
-- [Universal Segmentation](#Universal-Segmentation)
-- [Camouflaged Object Detection (COD)](#COD)
-- [Video Camouflaged Object Detection (VCOD)](#VCOD)
-- [Camouflaged Instance Segmentation (CIS)](#CIS)
-- [Weakly-supervised COD](#WSCOD)
-- [Semi-supervised COD](#Semi-supervised-COD)
-- [Unsupervised COD](#Unsupervised-COD)
-- [Zero-Shot COD](#Zero-Shot-COD)
-- [Referring COD](#RefCOD)
-- [Open-Vocabulary COS](#OVCOS)
-- [RGB-P COS](#RGBP-COS)
-- [MMW COD](#MMW-COD)
-- [Camouflage Generation](#Camouflage-Generation)
-- [Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)
-- [(Multi/Hyper-)Spectral COD](#Multi-Spectral-COD)
-- [Other Related](#Other-Related)
+- Subtopics
+  - [Universal Segmentation](#Universal-Segmentation)
+  - [Camouflaged Object Detection (COD)](#COD)
+  - [Video Camouflaged Object Detection (VCOD)](#VCOD)
+  - [Camouflaged Instance Segmentation (CIS)](#CIS)
+  - [Weakly-supervised COD](#WSCOD)
+  - [Semi-supervised COD](#Semi-supervised-COD)
+  - [Unsupervised COD](#Unsupervised-COD)
+  - [Zero-Shot COD](#Zero-Shot-COD)
+  - [Referring COD](#RefCOD)
+  - [Open-Vocabulary COS](#OVCOS)
+  - [RGB-P COS](#RGBP-COS)
+  - [MMW COD](#MMW-COD)
+  - [Camouflage Generation](#Camouflage-Generation)
+  - [Camouflaged Object Tracking (COT)](#Camouflaged-Object-Tracking)
+  - [(Multi/Hyper-)Spectral COD](#Multi-Spectral-COD)
+  - [Other Related Tasks](#Other-Related)
 - [Datasets](#Datasets)
-- [Appendix](#Appendix)
+- [Reference](#reference)
 
 --------------------------------------------------------------------------------------
 
@@ -665,7 +666,8 @@ MVCOD  | 2025 | arXiv | [Paper](https://arxiv.org/abs/2502.13859) | Video | 162/
 
 
 
-## 📎 Reference
+<!--## 📎 Reference-->
+<h2 "id="reference">📎 Reference</h2>
 
 - [Awesome List for Camouflaged Object Detection](https://github.com/GewelsJI/SINet-V2/blob/main/AWESOME_COD_LIST.md)
 
