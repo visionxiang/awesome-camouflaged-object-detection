@@ -36,7 +36,7 @@
 <summary><strong>:loudspeaker: Latest Updates: 2025.10</strong></summary>
 <p style="line-height: 1;"></p>  
 
-- [10/2025] Update with eight ICCV2025 papers.   
+- [10/2025] Update with nine ICCV2025 papers.   
 - [10/2025] Update with NeurIPS2025 and latest papers. 
 - [09/2025] Update with ACMMM2025 and latest papers.  
 - [06/2025] Update with CVPR2025, AAAI2025 papers.    
@@ -203,6 +203,7 @@
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
+| ICCV<br><sup>2025</sup> | <sup>`Controllable-LPMoE`</sup>  | Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts   <br> <sup><sub>*Yanguang Sun, Jiawei Lian, Jian Yang, Lei Luo*</sub></sup> | [Paper](https://arxiv.org/abs/2510.21114)\|[Code](https://github.com/CSYSI/Controllable-LPMoE) |  
 | ICCV<br><sup>2025</sup> | <sup>`VL-SAM`</sup>  | Multi-modal Segment Anything Model for Camouflaged Scene Segmentation   <br> <sup><sub>*Guangyu Ren, Hengyan Liu, Michalis Lazarou, Tania Stathaki*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ren_Multi-modal_Segment_Anything_Model_for_Camouflaged_Scene_Segmentation_ICCV_2025_paper.html)\|[Code](https://github.com/ic-qialanqian/Vision-Language-SAM) | 
 | ICCV<br><sup>2025</sup> | <sup>`ARM`</sup>  | Enhancing Prompt Generation with Adaptive Refinement for Camouflaged Object Detection   <br> <sup><sub>*Xuehan Chen, Guangyu Ren, Tianhong Dai, Tania Stathaki, Hengyan Liu*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Enhancing_Prompt_Generation_with_Adaptive_Refinement_for_Camouflaged_Object_Detection_ICCV_2025_paper.html)\|Code | 
 | ICCV<br><sup>2025</sup> | <sup>`SAM-COD`</sup>  | Improving SAM for Camouflaged Object Detection via Dual Stream Adapters  `RGB-D COD`  <br> <sup><sub>*Jiaming Liu, Linghe Kong, Guihai Chen*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Improving_SAM_for_Camouflaged_Object_Detection_via_Dual_Stream_Adapters_ICCV_2025_paper.html)\|Code | 
