@@ -124,6 +124,12 @@
   *NeurIPS*, 2025
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://neurips.cc/virtual/2025/poster/121542)</sub>
 
+- **Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes** `USCNet` <sub>![Static Badge](https://img.shields.io/badge/USC12K-grey)</sub> <br>
+  Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang <br>
+  *ICCV*, 2025
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2412.10943)</sub>
+  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/ssecv/USCNet)</sub>
+
 
 
 --------------------------------------------------------------------------------------
@@ -193,7 +199,7 @@
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
-| PR<br><sup>2026</sup> | <sup>`TG-COD`</sup>  | Text-guided camouflaged object detection    <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code 
+
 
 </details>
 
@@ -209,7 +215,7 @@
 | ICCV<br><sup>2025</sup> | <sup>`SAM-COD`</sup>  | Improving SAM for Camouflaged Object Detection via Dual Stream Adapters  `RGB-D COD`  <br> <sup><sub>*Jiaming Liu, Linghe Kong, Guihai Chen*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_Improving_SAM_for_Camouflaged_Object_Detection_via_Dual_Stream_Adapters_ICCV_2025_paper.html)\|Code | 
 | ICCV<br><sup>2025</sup> | <sup>`ESCNet`</sup>  | ESCNet: Edge-Semantic Collaborative Network for Camouflaged Object Detection    <br> <sup><sub>*Sheng Ye, Xin Chen, Yan Zhang, Xianming Lin, Liujuan Cao*</sub></sup>  | [Paper](https://iccv.thecvf.com/virtual/2025/poster/1498)\|[Code](https://github.com/suy9/ESCNet)   
 | ICCV<br><sup>2025</sup> | <sup>`USCNet`</sup>  | Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes  <sub>![Static Badge](https://img.shields.io/badge/USC12K-grey)</sub>  <br> <sup><sub>*Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang*</sub></sup>  | [Paper](https://arxiv.org/abs/2412.10943)\|[Code](https://github.com/ssecv/USCNet) 
-| ACMMM<br><sup>2025</sup> | <sup>`--`</sup> |  From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection   <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup>  | Paper\|Code  
+| ACMMM<br><sup>2025</sup> | <sup>`--`</sup> |  From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection   <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup>  | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755212)\|Code  
 | ACMMM<br><sup>2025</sup> | <sup>`ST-SAM`</sup> |  ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection   <br> <sup><sub>*Xihang Hu, Fuming Sun, Jiazhe Liu, Feilong Xu, Xiaoli Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2507.23307)\|[Code](https://github.com/hu-xh/ST-SAM)  
 | ACMMM<br><sup>2025</sup> | <sup>`SAM-TTT`</sup> | SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection    <br> <sup><sub>*Zhenni Yu, LiZhao LiZhao, Guobao Xiao, Xiaoqin Zhang*</sub></sup>  | [Paper](https://www.arxiv.org/abs/2509.11884)\|[Code](https://github.com/guobaoxiao/SAM-TTT) 
 | ACMMM<br><sup>2025</sup> | <sup>`--`</sup> | Focus on the Object: Gradient-based Feature Modulation for Camouflaged Object Segmentation    <br> <sup><sub>*Naisong Luo, Yuan Wang, Yuwen Pan, Rui Sun*</sub></sup>  | Paper\|Code 
@@ -219,7 +225,7 @@
 | IJCAI<br><sup>2025</sup> | <sup>`DPU-Former`</sup> | Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images  <sup><sub>``Tested on COD``</sub></sup> <br> <sup><sub>*Yanguang Sun, Jiexi Yan, Jianjun Qian, Chunyan Xu, Jian Yang, Lei Luo*</sub></sup>  | [Paper](https://www.ijcai.org/proceedings/2025/0213)\|[Code](https://github.com/CSYSI/DPU-Former) 
 | ICML<br><sup>2025</sup> | <sup>`RUN`</sup>  | RUN: Reversible Unfolding Network for Concealed Object Segmentation  <br> <sup><sub>*Chunming He, Rihan Zhang, Fengyang Xiao, Chengyu Fang, Longxiang Tang, Yulun Zhang, Linghe Kong, Deng-Ping Fan, Kai Li, Sina Farsiu*</sub></sup>  | [Paper](https://arxiv.org/abs/2501.18783)\|[Code](https://github.com/ChunmingHe/RUN) 
 | AAAI<br><sup>2025</sup> | <sup>`CamObj-Llava`</sup> | MM-CamObj: A Comprehensive Multimodal Dataset for Camouflaged Object Scenarios  <sub>![Static Badge](https://img.shields.io/badge/MM--CamObj-grey)</sub>    <br> <sup><sub>*Jiacheng Ruan, Wenzhen Yuan, Zehao Lin, Ning Liao, Zhiyu Li, Feiyu Xiong, Ting Liu, Yuzhuo Fu*</sub></sup> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32723)\|[Code](https://github.com/JCruan519/MM-CamObj)
-| ICME<br><sup>2025</sup> | <sup>`--`</sup> | Distraction Suppression and Feature Modulation Network for Camouflaged Object Detection   <br> <sup><sub>*Han Lyu; Meijun Sun; Haowei Ran; Yipu Liu; Xinyu Yan; Zheng Wang*</sub></sup>  | Paper\|Code 
+| ICME<br><sup>2025</sup> | <sup>`--`</sup> | Distraction Suppression and Feature Modulation Network for Camouflaged Object Detection   <br> <sup><sub>*Han Lyu; Meijun Sun; Haowei Ran; Yipu Liu; Xinyu Yan; Zheng Wang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11209969)\|Code 
 | WACV<br><sup>2025</sup> | <sup>`CamoFA`</sup> | CamoFA: A Learnable Fourier-Based Augmentation for Camouflage Segmentation   <br> <sup><sub>*Minh-Quan Le; Minh-Triet Tran; Trung-Nghia Le; Tam V. Nguyen; Thanh-Toan Do*</sub></sup> | [Paper](https://arxiv.org/abs/2308.15660)\|Code
 | WACV<br><sup>2025</sup> | <sup>`HDPNet`</sup> | HDPNet: Hourglass Vision Transformer with Dual-Path Feature Pyramid for Camouflaged Object Detection   <br> <sup><sub>*Jinpeng He; Biyuan Liu; Huaixin Chen*</sub></sup> | [Paper](https://www.computer.org/csdl/proceedings-article/wacv/2025/108300i645/25KmxC36lWw)\|[Code](https://github.com/LittleGrey-hjp/HDPNet)
 | --  | -- | -- | -- | 
@@ -229,6 +235,7 @@
 | TIP<br><sup>2025</sup> | <sup>`SENet`</sup> | A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection  <br> <sup><sub>*Chao Hao, Zitong Yu, Xin Liu, Jun Xu, Huanjing Yue, Jingyu Yang*</sub></sup> | [Paper](https://arxiv.org/abs/2402.18922)\|[Code](https://github.com/linuxsino/SENet) 
 | IJCV<br><sup>2025</sup> | <sup>`AdaptCOD`</sup> | Camouflaged Object Detection with Adaptive Partition and Background Retrieval    <br> <sup><sub>*Bowen Yin, Xuying Zhang, Li Liu, Ming-Ming Cheng, Yongxiang Liu & Qibin Hou*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s11263-025-02406-6)\|[Code](https://github.com/HVision-NKU/AdaptCOD)
 | IJCV<br><sup>2025</sup> | <sup>`MCRNet`</sup> | Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection  <br> <sup><sub>*Dingwen Zhang, Liangbo Cheng, Yi Liu, Xinggang Wang & Junwei Han*</sub></sup>  | [Paper](https://link.springer.com/article/10.1007/s11263-025-02530-3)\|[Code](https://github.com/Liangbo-Cheng/mamba_capsule) 
+| PR<br><sup>2025</sup> | <sup>`TG-COD`</sup>  | Text-guided camouflaged object detection    <br> <sup><sub>*Zefeng Chen, Yunqi Xue, Zhijiang Li, Philip Torr, Jindong Gu*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007186)\|Code 
 | PR<br><sup>2025</sup>  | <sup>`COD-SAM`</sup> | COD-SAM: Camouflage object detection using SAM  <br> <sup><sub>*Dongyang Gao, Yichao Zhou, Hui Yan, Chen Chen, Xiyuan Hu*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325004868)\|Code  
 | TMM<br><sup>2025</sup>  | <sup>`UGDNet`</sup> | Uncertainty-Guided Diffusion Model for Camouflaged Object Detection   <br> <sup><sub>*Jinsheng Yang; Bineng Zhong; Qihua Liang; Zhiyi Mo; Shengping Zhang; Shuxiang Song*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10855518)\|Code
 | TMM<br><sup>2025</sup>  | <sup>`PRBE-Net`</sup> | Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection   <br> <sup><sub>*Guanghui Yue, Shangjie Wu, Tianwei Zhou, Gang Li, Jie Du, Yu Luo*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/10814101)\|Code 
@@ -502,10 +509,11 @@
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
 | :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |  
+| 2025 | TBD | <sup>`SAM-RNet`</sup> | Weakly-supervised Camouflaged Object Detection via SAM-guided Resolution Iteration Learning   <br> <sup><sub>*Y Ge, Y Zhong, Q Zhang, H Bi, Tian-Zhu Xiang*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11216034)\|[Code](https://github.com/ZX123445/SAM-RNet)
 | 2025 | ACM MM | <sup>`PRLNet`</sup> | Progressive Representation Learning for Weakly-Supervised Camouflaged Object Detection  <br> <sup><sub>*Shuyong Gao, Qianyu Guo, Yu'ang Feng, Chunyuan Chen, Xujun Wei, Yan Wang, Wenqiang Zhang*</sub></sup>  | [Paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754737)\|[Code](https://github.com/shuyonggao/PRLNet) |
 | 2025 | PAMI | <sup>`SEE`</sup> | Segment Concealed Objects with Incomplete Supervision   <br> <sup><sub>*Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu*</sub></sup>  | [Paper](https://arxiv.org/abs/2506.08955)\|[Code](https://github.com/ChunmingHe/SEE)  
 | 2025 | TIP | <sup>`MSST`</sup> | UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models  <br> <sup><sub>*Ji Du; Jiesheng Wu; Desheng Kong; Weiyun Liang; Fangwei Hao; Jing Xu; Bin Wang; Guiling Wang; Ping Li*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/abstract/document/11131534)\|Code  
-| 2025 | ECAI | <sup>`FCT-SAM`</sup> | Scribble-based Weakly Supervised Camouflaged Object Detection via SAM-guided Feature Correlation Transformer  <br> <sup><sub>*Zi-Jie Wu, Rongrong Gao and Tian-Zhu Xiang*</sub></sup>  | Paper\|[Code](https://github.com/farewellIamLoser/FCT-SAM-WSCOD) 
+| 2025 | ECAI | <sup>`FCT-SAM`</sup> | Scribble-based Weakly Supervised Camouflaged Object Detection via SAM-guided Feature Correlation Transformer  <br> <sup><sub>*Zi-Jie Wu, Rongrong Gao and Tian-Zhu Xiang*</sub></sup>  | [Paper](https://ebooks.iospress.nl/volumearticle/75733)\|[Code](https://github.com/farewellIamLoser/FCT-SAM-WSCOD) 
 | 2025 |  NN  | <sup>`LRDNet`</sup> | Long-range diffusion for weakly camouflaged object segmentation <br>   <sup><sub>*Rui Wang, Caijuan Shi, Weixiang Gao, Changyu Duan, Ao Cai, Fei Yu, Yunchao Wei*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007968)\|[Code](https://github.com/Ray3417/LRDNet)  
 | 2025 | KBS | <sup>`PPL`</sup> | Weakly supervised camouflaged object detection as Progressive Perception Learning   <br> <sup><sub>*Tianxin Han, Xingwei Wang, Qing Dong, Min Huang, Jie Jia, Fu Zhang*</sub></sup>  | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501038X)\|[Code](https://github.com/NGI-vision/PPL) 
 | 2025 | TCSVT | <sup>`SAM-COD+`</sup> | SAM-COD+: SAM-Guided Unified Framework for Weakly-Supervised Camouflaged Object Detection   <br> <sup><sub>*Huafeng Chen; Pengxu Wei; Guangqian Guo; Shan Gao*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/10789225)\|Code  
@@ -561,7 +569,7 @@
 | **Year** | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
 | 2025 | TPAMI | <sup>`CaMF`</sup> | Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations      <br> <sup><sub>*Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang*</sub></sup>  | [Paper](https://arxiv.org/abs/2410.16953)\|[Code](https://github.com/R-LEI360725/ZSCOS-CaMF)
-| 2025 | ACMMM | <sup>`--`</sup> |  From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection   <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup>  | Paper\|Code  
+| 2025 | ACMMM | <sup>`--`</sup> |  From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection   <br> <sup><sub>*Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang*</sub></sup>  | [Paper](https://dl.acm.org/doi/10.1145/3746027.3755212)\|Code  
 | 2024 | ACMMM | <sup>`MMCPF`</sup> | Chain of Visual Perception: Harnessing Multimodal Large Language Models for Zero-shot Camouflaged Object Detection    <br> <sup><sub>*Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2311.11273)\|[Code](https://github.com/luckybird1994/MMCPF) 
 | 2023 | TIP | <sup>`ZSCOD`</sup> | Zero-Shot Camouflaged Object Detection     <br> <sup><sub>*Haoran Li; Chun-Mei Feng; Yong Xu; Tao Zhou; Lina Yao; Xiaojun Chang*</sub></sup> | [Paper](https://ieeexplore.ieee.org/abstract/document/10234216)\|Code  
 
