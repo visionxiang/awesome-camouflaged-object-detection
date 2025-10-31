@@ -195,16 +195,6 @@
 <summary><h2 id="COD">🎯 Camouflaged Object Detection (COD)</h2></summary>
 
 <details open>
-<summary><h3>2026</h2></summary>
-
-| **Pub.** | **Model** | **Title**          | **Links**        |
-| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
-
-
-</details>
-
-
-<details>
 <summary><h3>2025</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
