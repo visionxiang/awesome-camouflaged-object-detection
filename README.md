@@ -83,6 +83,12 @@
 ## 🔥 Recent Featured Papers
 <!--:triangular_flag_on_post:-->
 
+- **AINet: Integrating Mamba and CBAM for Enhanced Camouflage Object Detection** `AINet` <br>
+  Henry O. Velesaca, Andrea Mero, Abel Reyes-Angulo, Angel D. Sappa <br>
+  *IEEE Access*, 2026
+  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://ieeexplore.ieee.org/document/11411677)</sub>
+  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/hvelesaca/AINet/)</sub>
+  
 - **Assessment of camouflage in heterogeneous environments through deep learning: Analyzing object patterns and effectiveness** <sub>![Static Badge](https://img.shields.io/badge/ACD1K-grey)</sub> <br>
   Ali Haider, Rana Hammad Raza <br>
   *EAAI*, 2026
@@ -203,6 +209,15 @@
 
 <details>
 <summary><h2 id="COD">🎯 Camouflaged Object Detection (COD)</h2></summary>
+
+<details open>
+<summary><h3>2026</h2></summary>
+  
+| **Pub.** | **Model** | **Title**          | **Links**        |
+| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
+| IEEE Access | <sup>`AINet`</sup>  | AINet: Integrating Mamba and CBAM for Enhanced Camouflage Object Detection `COD`  <br> <sup><sub>*Henry O. Velesaca, Andrea Mero, Abel Reyes-Angulo, Angel D. Sappa*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11411677)\|[Code](https://github.com/hvelesaca/AINet/) |
+
+</details>
 
 <details open>
 <summary><h3>2025</h2></summary>
