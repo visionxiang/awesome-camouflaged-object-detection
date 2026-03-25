@@ -83,7 +83,7 @@
 ## 🔥 Recent Featured Papers
 <!--:triangular_flag_on_post:-->
 
-- **AINet: Integrating Mamba and CBAM for Enhanced Camouflage Object Detection** <sub>![Static Badge](https://img.shields.io/badge/ACD1K-grey)</sub> <br>
+- **AINet: Integrating Mamba and CBAM for Enhanced Camouflage Object Detection** `AINet` <br>
   Henry O. Velesaca, Andrea Mero, Abel Reyes-Angulo, Angel D. Sappa <br>
   *IEEE Access*, 2026
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://ieeexplore.ieee.org/document/11411677)</sub>
@@ -155,6 +155,7 @@
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- | 
+| IEEE Access | <sup>`AINet`</sup>  | AINet: Integrating Mamba and CBAM for Enhanced Camouflage Object Detection `COD`  <br> <sup><sub>*Henry O. Velesaca, Andrea Mero, Abel Reyes-Angulo, Angel D. Sappa*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11411677)\|[Code](https://github.com/hvelesaca/AINet/) |
 | arXiv | <sup>`DualGazeNet`</sup>  | DualGazeNet: A Biologically Inspired Dual-Gaze Query Network for Salient Object Detection  `SOD/COD`  <br> <sup><sub>*Yu Zhang, Haoan Ping, Yuchen Li, Zhenshan Bing, Fuchun Sun, Alois Knoll*</sub></sup>  | [Paper](https://arxiv.org/abs/2511.18865)\|[Code](https://github.com/jeremypha/DualGazeNet) |
 | arXiv | <sup>`KRNet`</sup>  | Knowledge Rectification for Camouflaged Object Detection: Unlocking Insights from Low-Quality Data  <br> <sup><sub>*Juwei Guan, Xiaolin Fang, Donghyun Kim, Haotian Gong, Tongxin Zhu, Zhen Ling, Ming Yang*</sub></sup>  | [Paper](https://arxiv.org/abs/2503.22180)\|Code
 | arXiv | <sup>`CamoSAM2`</sup>  | CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection  <br> <sup><sub>*Xin Zhang, Keren Fu, Qijun Zhao*</sub></sup>  | [Paper](https://arxiv.org/abs/2504.00375)\|Code 
