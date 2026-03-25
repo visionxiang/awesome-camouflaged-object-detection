@@ -212,9 +212,11 @@
 
 <details open>
 <summary><h3>2026</h2></summary>
+  
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
 | IEEE Access | <sup>`AINet`</sup>  | AINet: Integrating Mamba and CBAM for Enhanced Camouflage Object Detection `COD`  <br> <sup><sub>*Henry O. Velesaca, Andrea Mero, Abel Reyes-Angulo, Angel D. Sappa*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11411677)\|[Code](https://github.com/hvelesaca/AINet/) |
+
 </details>
 
 <details open>
