@@ -211,11 +211,17 @@
 <summary><h2 id="COD">🎯 Camouflaged Object Detection (COD)</h2></summary>
 
 <details open>
+<summary><h3>2026</h2></summary>
+| **Pub.** | **Model** | **Title**          | **Links**        |
+| :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
+| IEEE Access | <sup>`AINet`</sup>  | AINet: Integrating Mamba and CBAM for Enhanced Camouflage Object Detection `COD`  <br> <sup><sub>*Henry O. Velesaca, Andrea Mero, Abel Reyes-Angulo, Angel D. Sappa*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11411677)\|[Code](https://github.com/hvelesaca/AINet/) |
+</details>
+
+<details open>
 <summary><h3>2025</h2></summary>
 
 | **Pub.** | **Model** | **Title**          | **Links**        |
 | :------: | :------: | :----------------------------------------------------------- |  :----------------------------------------------------------- |  
-| IEEE Access | <sup>`AINet`</sup>  | AINet: Integrating Mamba and CBAM for Enhanced Camouflage Object Detection `COD`  <br> <sup><sub>*Henry O. Velesaca, Andrea Mero, Abel Reyes-Angulo, Angel D. Sappa*</sub></sup>  | [Paper](https://ieeexplore.ieee.org/document/11411677)\|[Code](https://github.com/hvelesaca/AINet/) |
 | ICCV<br><sup>2025</sup> | <sup>`Controllable-LPMoE`</sup>  | Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts   <br> <sup><sub>*Yanguang Sun, Jiawei Lian, Jian Yang, Lei Luo*</sub></sup> | [Paper](https://arxiv.org/abs/2510.21114)\|[Code](https://github.com/CSYSI/Controllable-LPMoE) |  
 | ICCV<br><sup>2025</sup> | <sup>`VL-SAM`</sup>  | Multi-modal Segment Anything Model for Camouflaged Scene Segmentation   <br> <sup><sub>*Guangyu Ren, Hengyan Liu, Michalis Lazarou, Tania Stathaki*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Ren_Multi-modal_Segment_Anything_Model_for_Camouflaged_Scene_Segmentation_ICCV_2025_paper.html)\|[Code](https://github.com/ic-qialanqian/Vision-Language-SAM) | 
 | ICCV<br><sup>2025</sup> | <sup>`ARM`</sup>  | Enhancing Prompt Generation with Adaptive Refinement for Camouflaged Object Detection   <br> <sup><sub>*Xuehan Chen, Guangyu Ren, Tianhong Dai, Tania Stathaki, Hengyan Liu*</sub></sup> | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_Enhancing_Prompt_Generation_with_Adaptive_Refinement_for_Camouflaged_Object_Detection_ICCV_2025_paper.html)\|Code | 
