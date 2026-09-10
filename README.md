@@ -88,11 +88,6 @@
 ## 🔥 Recent Featured Papers
 <!--:triangular_flag_on_post:-->
 
-- **Assessment of camouflage in heterogeneous environments through deep learning: Analyzing object patterns and effectiveness** <sub>![Static Badge](https://img.shields.io/badge/ACD1K-grey)</sub> <br>
-  Ali Haider, Rana Hammad Raza <br>
-  *EAAI*, 2026
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.sciencedirect.com/science/article/pii/S0952197625033457)</sub>
-
 - **Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations** `CaMF` <br>
   Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang <br>
   *TPAMI*, 2025
@@ -140,11 +135,6 @@
   <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2412.10943)</sub>
   <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/ssecv/USCNet)</sub>
 
-- **Identification of camouflage military individuals with deep learning approaches DFAN and SINETV2** <br>
-  Ali Haider, Ghulam Muhammad, Talha Ahmed Khan, Kushsairy Kadir, Mohd Nizam Husen & Haidawati Mohamad Nasir <br>
-  *Scientific Reports*, 2025
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://www.nature.com/articles/s41598-025-18886-y)</sub>
-  
 
 --------------------------------------------------------------------------------------
 
