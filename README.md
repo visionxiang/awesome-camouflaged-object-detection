@@ -56,23 +56,27 @@
 ## 📋 Table of Contents
 - [Preprint](#preprint)
 - [Survey Papers](#survey-papers)
-- Focal Topics
+- **Core Tasks**
   - [Universal Segmentation](#Universal-Segmentation)
   - [Camouflaged Object Detection (COD)](#COD)
   - [Video Camouflaged Object Detection (VCOD)](#VCOD)
   - [Camouflaged Instance Segmentation (CIS)](#CIS)
+  - [Camouflaged Object Tracking (COT)](#COT)
+- **Learning Paradigms**
   - [Weakly-supervised COD](#WSCOD)
   - [Semi-supervised COD](#Semi-supervised-COD)
   - [Unsupervised COD](#Unsupervised-COD)
-  - [Zero-Shot COD](#Zero-Shot-COD)
+  - [Zero-shot COD](#Zero-Shot-COD)
+- **Language-guided COS**
   - [Referring COD](#RefCOD)
-  - [Open-Vocabulary COS](#OVCOS)
+  - [Open-vocabulary COS](#OVCOS)
   - [VLM in COS](#VLMCOS)
-  - [RGB-P COD](#RGBP-COD)
-  - [MMW COD](#MMW-COD)
+- **Multi-modal Sensing**
+  - [RGB-Polarization COD](#RGBP-COD)
+  - [Millimeter-wave COD](#MMW-COD)
+  - [Multi/Hyper-spectral COD](#Multi-Spectral-COD)
+- **Related Topics**
   - [Camouflage Generation](#Camouflage-Generation)
-  - [Camouflaged Object Tracking (COT)](#COT)
-  - [(Multi/Hyper-)Spectral COD](#Multi-Spectral-COD)
   - [Other Related Tasks](#Other-Related)
 - [Datasets](#Datasets)
 - [Reference](#reference)
@@ -508,6 +512,18 @@
 --------------------------------------------------------------------------------------
 
 <details>
+<summary><h2 id="COT">🎯 Camouflaged Object Tracking (COT)</h2></summary>
+
+| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
+| 2025 | ACMMM DS | <small><sup>`HiPTrack-MLS`</sup></small> | Camouflaged Object Tracking: A Benchmark  <sub>![Static Badge](https://img.shields.io/badge/COTD-grey)</sub>  <br> <sup><sub>*Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Defeng Huang, Huikai Shao, Qijun Zhao, Shuiwang Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.13877)\|[Code](https://github.com/openat25/HIPTrack-MLS)
+
+</details>
+
+
+--------------------------------------------------------------------------------------
+
+<details>
 <summary><h2 id="WSCOD">🎯 Weakly-Supervised COD</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
@@ -650,6 +666,20 @@
 --------------------------------------------------------------------------------------
 
 <details>
+<summary><h2 id="Multi-Spectral-COD">🎯 Multi-Spectral COD</h2></summary>
+  
+<sup>(Multi-/Hyper-) Spectral COD</sup>
+
+| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
+| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
+| 2025 | ACMMM DS | <small><sup>`MCOD`</sup></small> | MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/MCOD-grey)</sub>  <br> <sup><sub>*Yang Li, Tingfa Xu, ShuYan Bai, Peifu Liu, Jianan Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2509.15753)\|[Code](https://github.com/yl2900260-bit/MCOD)
+
+</details>
+
+
+--------------------------------------------------------------------------------------
+
+<details>
 <summary><h2 id="Camouflage-Generation">🎯 Camouflage Generation</h2></summary>
 
 | **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
@@ -660,32 +690,6 @@
 | 2022 | CVPR | <small><sup>`GANmouflage`</sup></small> | GANmouflage: 3D Object Nondetection with Texture Fields   <br> <sup><sub>*Rui Guo, Jasmine Collins, Oscar de Lima, Andrew Owens*</sub></sup>  | [Paper](https://arxiv.org/abs/2201.07202)\|[Proj](https://rrrrrguo.github.io/ganmouflage/)
 | 2022 | TMM | <small><sup>`LCG-Net`</sup></small> | Location-Free Camouflage Generation Network  <br> <sup><sub>*Yangyang Li, Wei Zhai, Yang Cao, Zheng-jun Zha*</sub></sup> | [Paper](https://arxiv.org/abs/2203.09845)\|[Code](https://github.com/Tale17/LCG-Net) 
 | 2020 | AAAI |   <small><sup>`-`</sup></small>   | Deep Camouflage Images        <br><sup><sub>*Qing Zhang, Gelin Yin, Yongwei Nie, Wei-Shi Zheng*</sub></sup>       | [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/6981)\|[Code](https://github.com/hirokic5/Pytorch_CamouflageImages) |
-
-</details>
-
-
---------------------------------------------------------------------------------------
-
-<details>
-<summary><h2 id="COT">🎯 Camouflaged Object Tracking (COT)</h2></summary>
-
-| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
-| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
-| 2025 | ACMMM DS | <small><sup>`HiPTrack-MLS`</sup></small> | Camouflaged Object Tracking: A Benchmark  <sub>![Static Badge](https://img.shields.io/badge/COTD-grey)</sub>  <br> <sup><sub>*Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Defeng Huang, Huikai Shao, Qijun Zhao, Shuiwang Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2408.13877)\|[Code](https://github.com/openat25/HIPTrack-MLS)
-
-</details>
-
-
---------------------------------------------------------------------------------------
-
-<details>
-<summary><h2 id="Multi-Spectral-COD">🎯 Multi-Spectral COD</h2></summary>
-  
-<sup>(Multi-/Hyper-) Spectral COD</sup>
-
-| **Year** | **Pub.** | **Model** | **Title**                                                    | **Links**                                                    |
-| :------: | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | 
-| 2025 | ACMMM DS | <small><sup>`MCOD`</sup></small> | MCOD: The First Challenging Benchmark for Multispectral Camouflaged Object Detection  <sub>![Static Badge](https://img.shields.io/badge/MCOD-grey)</sub>  <br> <sup><sub>*Yang Li, Tingfa Xu, ShuYan Bai, Peifu Liu, Jianan Li*</sub></sup>  | [Paper](https://arxiv.org/abs/2509.15753)\|[Code](https://github.com/yl2900260-bit/MCOD)
 
 </details>
 
