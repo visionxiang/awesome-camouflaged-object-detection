@@ -1,51 +1,40 @@
 
 <div align="center">
   <h1>Awesome Camouflage Vision</h1>
-  <p>A curated collection of papers and resources for the field of camouflaged vision</p>
-  <p>COD | COS | CSU | …… </p>
-  <p><a href="https://github.com/sindresorhus/awesome"><img src="figs/awesome.png" alt="Awesome" style="max-width: 100%;" width="100"></a> </p>
+  <p>A curated collection of papers and resources for the field of camouflage vision</p>
+  <p>
+    <a href="https://github.com/sindresorhus/awesome"><img src="figs/awesome.png" alt="Awesome" width="100"></a>
+  </p>
+  <p>
+    <a href="https://github.com/visionxiang/awesome-camouflaged-object-detection/stargazers"><img src="https://img.shields.io/github/stars/visionxiang/awesome-camouflaged-object-detection?style=flat&color=yellow" alt="Stars"></a>
+    <a href="https://github.com/visionxiang/awesome-camouflaged-object-detection/commits/main"><img src="https://img.shields.io/github/last-commit/visionxiang/awesome-camouflaged-object-detection?style=flat" alt="Last commit"></a>
+    <a href="https://github.com/visionxiang/awesome-camouflaged-object-detection/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat" alt="PRs welcome"></a>
+  </p>
 </div>
 
-<!-- # Awesome Camouflaged Object Detection <a href="https://github.com/sindresorhus/awesome"><img src="figs/awesome.png" alt="Awesome" style="max-width: 100%;" width="100"></a> -->
-
-> This repository aims to provide the most comprehensive and cutting-edge map of papers and technologies in the field of **camouflage vision**, including
-> - Camouflaged/Concealed Object Detection (COD)  
-> - Camouflaged/Concealed Object Segmentation (COS)  
+> A curated, regularly updated list of papers, code and datasets on **camouflage vision**: detecting, segmenting and understanding concealed objects. It covers
+> - Camouflaged/Concealed Object Detection (COD)
+> - Camouflaged/Concealed Object Segmentation (COS)
 > - Camouflaged/Concealed Scene Understanding (CSU)
-> - etc.
-> 
-> 🔄 We commit to regular updates for ongoing resource improvements.
+> - and their variants: video, instance-level, weakly-supervised, language-guided and multi-modal settings
+>
+> 📌 A grey badge after a title, e.g. ![COD10K](https://img.shields.io/badge/COD10K-grey), names the dataset that paper introduces. A plain **Code** without a link means the code has not been released.
+>
+> 🔄 Updated regularly. Missing a paper? Open an issue or PR.
 
 
 <details>
-<summary><strong>:loudspeaker: Icon Legend</strong></summary>
-<!--:heavy_exclamation_mark:🔑-->
-<!--<sub>![Static Badge](https://img.shields.io/badge/dataset-grey)</sub>-->
+<summary><strong>:loudspeaker: Latest Updates</strong></summary>
 
-<p style="line-height: 1;"></p>  
-<table>
-    <tr>
-        <td style="width: 20%;"><sub><img src="https://img.shields.io/badge/dataset-grey" alt="Dataset Badge"></sub></td>
-        <td style="width: 20%;">Dataset</td>
-    </tr>
-</table>
-</details>
-
-
-<details>
-<summary><strong>:loudspeaker: Latest Updates: 2025.10</strong></summary>
-<p style="line-height: 1;"></p>  
-
-- [10/2025] Update with nine ICCV2025 papers.   
-- [10/2025] Update with NeurIPS2025 and latest papers. 
-- [09/2025] Update with ACMMM2025 and latest papers.  
-- [06/2025] Update with CVPR2025, AAAI2025 papers.    
-- [08/2024] Update with ECCV2024, MM2024 papers.  
-- [04/2024] Update with CVPR2024 papers.  
-- [01/2024] Update with ICLR2024, WACV2024 papers.   
-- [12/2023] Update with  NeurIPS2023, AAAI2024 papers.   
-- [08/2023] Update with ICCV2023, MM2023, etc. papers for COD and CIS.   
-- [04/2023] Update with CVPR2023 papers for COD and CIS.
+- 2025.10 · ICCV 2025, NeurIPS 2025 and other recent papers
+- 2025.09 · ACM MM 2025 and other recent papers
+- 2025.06 · CVPR 2025, AAAI 2025
+- 2024.08 · ECCV 2024, ACM MM 2024
+- 2024.04 · CVPR 2024
+- 2024.01 · ICLR 2024, WACV 2024
+- 2023.12 · NeurIPS 2023, AAAI 2024
+- 2023.08 · ICCV 2023, ACM MM 2023 and others (COD, CIS)
+- 2023.04 · CVPR 2023 (COD, CIS)
 </details>
 
 
