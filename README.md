@@ -18,7 +18,7 @@
 > - Camouflaged/Concealed Scene Understanding (CSU)
 > - and their variants: video, instance-level, weakly-supervised, language-guided and multi-modal settings
 >
-> 📌 A grey badge after a title, e.g. ![COD10K](https://img.shields.io/badge/COD10K-grey), names the dataset that paper introduces. A plain **Code** without a link means the code has not been released.
+> 📌 A grey badge after a title, e.g. <sub>![COD10K](https://img.shields.io/badge/COD10K-grey)</sub>, names the dataset that paper introduces. A plain **Code** without a link means the code has not been released.
 >
 > 🔄 Updated regularly. Missing a paper? Open an issue or PR.
 
@@ -217,8 +217,8 @@
 | PR<br><sup>2026</sup> | <sup>`--`</sup> | Partitioned observation network for camouflaged object detection <br> <sup><sub>*Jinxia Zhang, Yin Yuan, Xuwen Zhu, Yang Hu, Kaihua Zhang*</sub></sup> | [Paper](https://doi.org/10.1016/j.patcog.2025.112637)\|Code |
 | PR<br><sup>2026</sup> | <sup>`--`</sup> | Full frequency decomposition and reasoning fusion for concealed object detection <br> <sup><sub>*Feng Xiao, Peihua Han, Jianhua Zhang, Shengyong Chen, Houxiang Zhang*</sub></sup> | [Paper](https://doi.org/10.1016/j.patcog.2026.114675)\|Code |
 | PR<br><sup>2026</sup> | <sup>`--`</sup> | Camouflaged object detection based on edge screening and cross-layer fusion <br> <sup><sub>*Yanliang Ge, Yuxi Zhong, Junchao Ren, Min He, Hongbo Bi, Qiao Zhang*</sub></sup> | [Paper](https://doi.org/10.1016/j.patcog.2026.113604)\|Code |
-| PR<br><sup>2026</sup> | <sup>`--`</sup> | Spatial coherence loss: All objects matter in salient and camouflaged object detection `SOD/COD` <br> <sup><sub>*Ziyun Yang, Kevin Choy, Sina Farsiu*</sub></sup> | [Paper](https://doi.org/10.1016/j.patcog.2025.112798)\|Code |
-| NN<br><sup>2026</sup> | <sup>`HVPNet`</sup> | HVPNet: A bio-inspired network for general salient and camouflaged object detection `SOD/COD` <br> <sup><sub>*Jiawei Xu, Qiangqiang Zhou, Zhouping Li, Yanjiao Shi, Yugen Yi, Jiacong Yu*</sub></sup> | [Paper](https://doi.org/10.1016/j.neunet.2026.109340)\|Code |
+| PR<br><sup>2026</sup> | <sup>`--`</sup> | Spatial coherence loss: All objects matter in salient and camouflaged object detection `SOD/COD` <br> <sup><sub>*Ziyun Yang, Kevin Choy, Sina Farsiu*</sub></sup> | [Paper](https://doi.org/10.1016/j.patcog.2025.112798)\|[Code](https://github.com/Zyun-Y/SCLoss) |
+| NN<br><sup>2026</sup> | <sup>`HVPNet`</sup> | HVPNet: A bio-inspired network for general salient and camouflaged object detection `SOD/COD` <br> <sup><sub>*Jiawei Xu, Qiangqiang Zhou, Zhouping Li, Yanjiao Shi, Yugen Yi, Jiacong Yu*</sub></sup> | [Paper](https://doi.org/10.1016/j.neunet.2026.109340)\|[Code](https://github.com/jiaweiXu1029/HVPNet) |
 
 </details>
 
