@@ -77,54 +77,18 @@
 
 
 ## 🔥 Recent Featured Papers
-<!--:triangular_flag_on_post:-->
+<!-- Venue chip colours: TPAMI 1f6feb · TIP 0e8a6b · TCSVT 2da44e · TMM 1b7f8c · IJCV 5a4fcf · NeurIPS bf3989 · ICML 8250df · AAAI 6e40c9 · CVPR d1242f · ICCV e16f24 · ECCV a40e26 · ACL b8860b · ACMMM c2410c -->
 
-- **Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations** `CaMF` <br>
-  Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang <br>
-  *TPAMI*, 2025
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2410.16953)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/R-LEI360725/ZSCOS-CaMF)</sub>
-
-- **Referring Camouflaged Object Detection** `R2CNet` <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub> <br>
-  Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng <br>
-  *TPAMI*, 2025
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2306.07532)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/zhangxuying1004/RefCOD)</sub>
-
-- **ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection** `ZoomNeXt` <br> 
-  Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu <br>
-  *TPAMI*, 2024
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2310.20208)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/lartpang/ZoomNeXt)</sub>
-
-- **Uncertainty-Aware Transformer for Referring Camouflaged Object Detection** `UAT` <br>
-  Ranwan Wu, Tian-Zhu Xiang, Guo-Sen Xie, Rongrong Gao, Xiangbo Shu, Fang Zhao, Ling Shao <br>
-  *TIP*, 2025
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://ieeexplore.ieee.org/abstract/document/11080234)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/CVL-hub/UAT)</sub>
-
-- **Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection** `HGINet` <br>
-  Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao <br>
-  *TIP*, 2024
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2408.15020)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/Garyson1204/HGINet)</sub>
-
-- **CamSAM2: Segment Anything Accurately in Camouflaged Videos** `CamSAM2` <br>
-  Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu <br>
-  *NeurIPS*, 2025
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2503.19730)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/zhoustan/CamSAM2)</sub>
-
-- **MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes** <br>
-  Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen <br>
-  *NeurIPS*, 2025
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://neurips.cc/virtual/2025/poster/121542)</sub>
-
-- **Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes** `USCNet` <sub>![Static Badge](https://img.shields.io/badge/USC12K-grey)</sub> <br>
-  Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang <br>
-  *ICCV*, 2025
-  <sub>[![Static Badge](https://img.shields.io/badge/Paper-white?logoSize=auto)](https://arxiv.org/abs/2412.10943)</sub>
-  <sub>[![Static Badge](https://img.shields.io/badge/Code-white?logoSize=auto)](https://github.com/ssecv/USCNet)</sub>
+| **Venue** | **Paper** | **Links** |
+| :------: | :----------------------------------------------------------- | :------: |
+| ![TPAMI 2025](https://img.shields.io/badge/TPAMI-2025-1f6feb?style=flat-square) | **Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations** `CaMF` <br><sub>Cheng Lei, Jie Fan, Xinran Li, Tian-Zhu Xiang, Ao Li, Ce Zhu, Le Zhang</sub> | [Paper](https://arxiv.org/abs/2410.16953) · [Code](https://github.com/R-LEI360725/ZSCOS-CaMF) |
+| ![TPAMI 2025](https://img.shields.io/badge/TPAMI-2025-1f6feb?style=flat-square) | **Referring Camouflaged Object Detection** `R2CNet` <sub>![Static Badge](https://img.shields.io/badge/R2C7K-grey)</sub> <br><sub>Xuying Zhang, Bowen Yin, Zheng Lin, Qibin Hou, Deng-Ping Fan, Ming-Ming Cheng</sub> | [Paper](https://arxiv.org/abs/2306.07532) · [Code](https://github.com/zhangxuying1004/RefCOD) |
+| ![TIP 2025](https://img.shields.io/badge/TIP-2025-0e8a6b?style=flat-square) | **Uncertainty-Aware Transformer for Referring Camouflaged Object Detection** `UAT` <br><sub>Ranwan Wu, Tian-Zhu Xiang, Guo-Sen Xie, Rongrong Gao, Xiangbo Shu, Fang Zhao, Ling Shao</sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/11080234) · [Code](https://github.com/CVL-hub/UAT) |
+| ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-bf3989?style=flat-square) | **CamSAM2: Segment Anything Accurately in Camouflaged Videos** `CamSAM2` <br><sub>Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu</sub> | [Paper](https://arxiv.org/abs/2503.19730) · [Code](https://github.com/zhoustan/CamSAM2) |
+| ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS-2025-bf3989?style=flat-square) | **MMCSBench: A Fine-Grained Benchmark for Large Vision-Language Models in Camouflage Scenes** <br><sub>Jin Zhang, Ruiheng Zhang, Zhe Cao, Kaizheng Chen</sub> | [Paper](https://neurips.cc/virtual/2025/poster/121542) · Code |
+| ![ICCV 2025](https://img.shields.io/badge/ICCV-2025-e16f24?style=flat-square) | **Rethinking Detecting Salient and Camouflaged Objects in Unconstrained Scenes** `USCNet` <sub>![Static Badge](https://img.shields.io/badge/USC12K-grey)</sub> <br><sub>Zhangjun Zhou, Yiping Li, Chunlin Zhong, Jianuo Huang, Jialun Pei, Hua Li, He Tang</sub> | [Paper](https://arxiv.org/abs/2412.10943) · [Code](https://github.com/ssecv/USCNet) |
+| ![TPAMI 2024](https://img.shields.io/badge/TPAMI-2024-1f6feb?style=flat-square) | **ZoomNeXt: A Unified Collaborative Pyramid Network for Camouflaged Object Detection** `ZoomNeXt` <br><sub>Youwei Pang, Xiaoqi Zhao, Tian-Zhu Xiang, Lihe Zhang, Huchuan Lu</sub> | [Paper](https://arxiv.org/abs/2310.20208) · [Code](https://github.com/lartpang/ZoomNeXt) |
+| ![TIP 2024](https://img.shields.io/badge/TIP-2024-0e8a6b?style=flat-square) | **Hierarchical Graph Interaction Transformer with Dynamic Token Clustering for Camouflaged Object Detection** `HGINet` <br><sub>Siyuan Yao, Hao Sun, Tian-Zhu Xiang, Xiao Wang, Xiaochun Cao</sub> | [Paper](https://arxiv.org/abs/2408.15020) · [Code](https://github.com/Garyson1204/HGINet) |
 
 
 --------------------------------------------------------------------------------------
